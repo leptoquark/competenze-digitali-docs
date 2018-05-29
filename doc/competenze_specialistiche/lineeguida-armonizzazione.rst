@@ -392,3 +392,78 @@ La figura professionale rappresenta la specifica combinazione di competenze che 
   :alt: Schema processi di lavoro-Competenze-Figura professionale
 
 **Figura 1. Schema processi di lavoro-Competenze-Figura professionale**
+
+4.2. Conoscenze, abilità e competenze
+'''''''''''''''''''''''''''''''''''''''''''''
+
+Le figure professionali sono associate alla norma UNI EN 16234-1, contenente la versione in lingua italiana modello CEN e-Competence Framework (e-CF 3.0, divenuto nel 2016 uno standard europeo), che classifica 40 competenze in 5 aree di attività ICT. Il concetto chiave di questo modello è la competenza, definita come “La capacità dimostrata di applicare le conoscenze, gli skills e attitudini per ottenere risultati osservabili”. All'interno dell'e-CF, le competenze vengono descritte dal punto di vista del comportamento osservabile sul luogo di lavoro e degli elementi misurabili di una specifica competenza.
+
+La competenza è un concetto duraturo che prescinde dalla tecnologia, dall'occupazione, dalla terminologia di marketing e dai concetti promozionali all'interno dell'ambiente ICT: sebbene queste variabili cambino rapidamente, il modello e-CF rimane duraturo e richiede manutenzione circa ogni tre anni per mantenere la rilevanza. Una competenza può essere una componente di un ruolo professionale, ma non può essere utilizzata per sostituire titoli di lavoro con lo stesso nome; ad esempio, la competenza, D.7. "Gestione vendite" non rappresenta il contenuto completo di un ruolo di lavoro "Responsabile vendite". Le competenze possono essere aggregate per rappresentare il contenuto essenziale di un ruolo o profilo professionale così come una singola competenza può essere assegnata a un numero di profili di lavoro diversi.
+
+È utile sottolineare che la competenza e-CF non deve essere confusa con concetti di processo o tecnologici come "Cloud Computing" o "Big Data". Queste descrizioni rappresentano tecnologie in evoluzione e, nel contesto dell'e-CF, possono essere integrate come elementi all'interno di esempi di conoscenza e abilità.
+
+L'e-CF non contempla ogni possibile competenza di un professionista ICT, ma prevede un modello classificatorio per definire le competenze associate alle figure professionali ICT. Alcune competenze introdotte nel modello e-CF (per esempio "Gestione dei problemi" o "Gestione dei rischi") sono comuni ad altre professioni, ma rappresentano un plus importante anche per le professioni ICT, che però esclude competenze generiche come può essere la "Gestione Generale".
+
+Questo tipo di approccio è concettualmente diverso da quello utilizzato all'interno del modello Quadro europeo delle qualifiche e dei titoli per l'apprendimento permanente (EQF - European Quality Framework), che prevede uno schema per collegare i livelli di apprendimento e i quadri di qualifiche e descrive la competenza in termini di responsabilità e autonomia. Nell'e-CF i concetti di responsabilità e autonomia associati alle competenze non sono facilmente riutilizzabili a causa delle differenti definizioni da cui derivano i modelli (che comunque sono raccordati tra loro). La differenza sostanziale sta nel fatto che il modello e-CF “misura” esplicitamente il livello di una competenza (da 1 a 5) in termini di tre variabili: altezza (autonomia), profondità (complessità) e ampiezza (comportamento) per rappresentare il più fedelmente possibile la realtà del luogo di lavoro. In particolare, le competenze digitali sono riferite a 23 profili ICT collegati alla CP2011 e distribuiti in 6 differenti aree tematiche (Business management, Technical management, Design, Development, Service & Operation, Support). 
+
+•	Le competenze sono costituite da un insieme integrato di conoscenze e capacità che assicurano l’esercizio di un comportamento organizzativo adeguato a produrre i risultati previsti da una specifica attività lavorativa. Le capacità sono intese come metodologie, tecniche, procedure, software, strumenti e attrezzature che il soggetto applica, utilizza, manovra, conduce. 
+
+•	Le conoscenze sono intese come saperi in qualche modo formalizzati che il soggetto richiama alla memoria nell’atto di realizzare la prestazione lavorativa.
+
+4.3. Identificazione delle componenti essenziali del modello
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Prevedendo l’allineamento di quattro classificazioni (AgID, Istat, QNQ e Repertorio) e l’opportunità di creare una articolazione unica di competenze, è possibile utilizzare lo stesso linguaggio e consentire quindi di connettere le classificazioni delle figure professionali e delle qualificazioni correlate. Di seguito si propone la struttura di un modello condiviso per l’individuazione delle qualificazioni da certificare e delle relative competenze.
+
+È importante, in un’ottica di mobilità europea, importante allineare le qualificazioni ICT al modello e-CF, per poter garantire una certa uniformità di linguaggio e una validità delle certificazioni più ampia e spendibile (vedi Allegato A). 
+
+4.4. Struttura del modello
+'''''''''''''''''''''''''''''''
+Il modello proposto prevede:
+
+1)	la comparazione tra le 13 UP della classificazione nazionale delle professioni, individuate come correlate alle figure ICT (contenute nelle norme UNI e recepite da AgID) e le singole ADA individuate nell’ambito della costruzione del QNQ. Da tale comparazione è possibile individuare quali attività sono attese nell’ambito di ciascuna UP e quali ADA sono collegate a più qualificazioni.
+
+2)	La comparazione successiva, per ciascuna UP, con la figura professionale ICT AgID di riferimento.
+
+3)	La comparazione, attraverso l’ADA correlata (o le ADA correlate) con le qualificazioni presenti nel Quadro Nazionale delle Qualificazioni e con i singoli Repertori Regionali.
+
+Dal quadro emergente è pertanto possibile individuare sia le qualificazioni già presenti nel QNQ che nei singoli repertori ed individuare le qualificazioni da proporre per un inserimento, al fine di completare il QNQ con tutte le qualificazioni AgID. È utile evidenziare che:
+
+A)	Nel caso in cui le qualificazioni siano presenti nei repertori, è necessario indicare, per ciascuna competenza, la corrispondenza con le competenze e-CF, specificandone il livello minimo.
+
+B)	Nel caso in cui non siano presenti alcune o la totalità delle qualificazioni ICT, è consigliato inserire nei repertori le Unità Professionali relative alla CP2011 (indicate nel presente documento e già collegate ai profili AgID) e le competenze e-CF riportate nel quadro riassuntivo sottostante.
+
+Di seguito un esempio di quadro sinottico realizzato con la comparazione dei profili (qualificazioni) presenti o in corso di costruzione nel Repertorio di Regione Liguria (le figure indicate con asterisco sono già presenti nel repertorio di Regione Liguria mentre le restanti sono in fase di costruzione).
+
+
+
+5. Evoluzioni future
+'''''''''''''''''''''''''''''''
+A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regioni, a partire dalla Liguria, si potranno prevedere:
+
+1)	approfondimento dei contenuti delle qualificazioni già presenti nel QNQ (o in singoli repertori) al fine di una loro corretta correlazione con i profili ICT AgID.
+
+2)	progettazione, studio e costruzione dei contenuti di competenza per i profili non presenti nel QNG (o in singoli repertori) e correlati a profili ICT AgID già presenti.
+
+3)	Definizione dei descrittori e delle dimensioni dei livelli EQF collegati al disposto del Decreto 8 gennaio 2018 per tutte le qualificazioni (già presenti o da definire) collegate ai profili ICT AgID.
+
+4)	Pubblicazione di un documento pubblico di correlazione tra le qualificazioni nazionali e i profili ICT AgID.
+
+5)	Avvio di un processo sperimentale che preveda la certificazione delle qualificazioni considerate da parte delle regioni attraverso gli enti certificatori accreditati secondo Dlgs. 13/2013.
+
+6. Bibliografia
+'''''''''''''''''''''''''''''''
+
+•	AgID - Linee guida per la qualità delle competenze digitali nelle professionalità ICT (Maggio 2018) 
+
+•	DGR 668/2017 “Il sistema regionale delle professioni - aggiornamento, modifica e riorganizzazione del Repertorio Regionale delle Professioni.” - Regione Liguria - http://iterg.regione.liguria.it/Documenti.asp?comando=Ricerca&AnnoProc=2017&NumProc=5106&Emanante= 
+
+•	MINISTERO DEL LAVORO E DELLA PREVIDENZA SOCIALE - DECRETO 30 ottobre 2007  “Comunicazioni obbligatorie telematiche dovute dai datori di lavoro pubblici e privati ai servizi competenti.” - http://www.gazzettaufficiale.it/eli/id/2007/12/27/07A10720/sg
+
+•	MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 8 gennaio 2018 “Istituzione del Quadro nazionale delle qualificazioni rilasciate nell'ambito del Sistema nazionale di certificazione delle competenze di cui al decreto legislativo 16 gennaio 2013, n. 13.” - http://www.gazzettaufficiale.it/eli/id/2018/01/25/18A00411/sg 
+
+•	MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - DECRETO 16 marzo 2007 “Determinazione delle classi delle lauree universitarie.” - http://www.gazzettaufficiale.it/eli/id/2007/07/06/07A05800/sg 
+
+•	Istat - Nomenclatura e classificazione delle professioni (2011) - http://professioni.istat.it/sistemainformativoprofessioni/cp2011/
+
+•	LEGGE 28 giugno 2012, n. 92 “Disposizioni in materia di riforma del mercato del lavoro in una prospettiva di crescita.” - http://www.gazzettaufficiale.it/eli/id/2012/07/03/012G0115/sg 
