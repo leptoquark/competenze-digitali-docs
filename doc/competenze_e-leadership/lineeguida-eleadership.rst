@@ -4,85 +4,6 @@ Linee guida per le competenze di e-leadership
 *Competenze e strumenti per la valorizzazione della e-leadership nella
 PA.*
 
-Sommario
-========
-
-`1. Premessa 2 <#premessa>`__
-
-`1.1.1. Acronimi e abbreviazioni 2 <#acronimi-e-abbreviazioni>`__
-
-`2. Principi e strategie per la mappatura e la valorizzazione
-3 <#principi-e-strategie-per-la-mappatura-e-la-valorizzazione>`__
-
-`2.1. Introduzione al tema dell’e-leadership
-3 <#introduzione-al-tema-delle-leadership>`__
-
-`2.1.1. Chi è l’e-leader? 3 <#chi-è-le-leader>`__
-
-`2.1.2. L’e-leader come leva del cambiamento organizzativo
-3 <#le-leader-come-leva-del-cambiamento-organizzativo>`__
-
-`2.1.3. Quale percorso per l’e-leader?
-3 <#quale-percorso-per-le-leader>`__
-
-`2.1.4. Le componenti dell’e-leadership
-3 <#le-componenti-delle-leadership>`__
-
-`2.2. Descrizione delle cinque aree di competenza
-4 <#descrizione-delle-cinque-aree-di-competenza>`__
-
-`2.2.1. Cultura e conoscenze del mondo digitale
-4 <#cultura-e-conoscenze-del-mondo-digitale>`__
-
-`2.2.2. Capacità individuali di relazione e di comunicazione (“soft
-skill”)
-5 <#capacità-individuali-di-relazione-e-di-comunicazione-soft-skill>`__
-
-`2.2.3. Competenze organizzative e di gestione del cambiamento
-5 <#competenze-organizzative-e-di-gestione-del-cambiamento>`__
-
-`2.2.4. Competenze sui processi digitali nella PA
-6 <#competenze-sui-processi-digitali-nella-pa>`__
-
-`3. Mappatura delle possibili linee di intervento sul tema
-8 <#mappatura-delle-possibili-linee-di-intervento-sul-tema>`__
-
-`3.1. Sviluppo della e-leadership per la PA
-8 <#sviluppo-della-e-leadership-per-la-pa>`__
-
-`4. Percorsi e strumenti per la progettazione formativa
-11 <#percorsi-e-strumenti-per-la-progettazione-formativa>`__
-
-`4.1. Strumenti di attuazione 11 <#strumenti-di-attuazione>`__
-
-`4.2. Progettazione di attività formativa interna
-11 <#progettazione-di-attività-formativa-interna>`__
-
-`4.3. Progettazione di attività di formazione attraverso consulenze
-specialistiche
-13 <#progettazione-di-attività-di-formazione-attraverso-consulenze-specialistiche>`__
-
-`4.4. Progettazione di attività di formazione attraverso scambi tra
-Amministrazioni
-14 <#progettazione-di-attività-di-formazione-attraverso-scambi-tra-amministrazioni>`__
-
-`5. Linee guida per la misurazione di impatto
-15 <#linee-guida-per-la-misurazione-di-impatto>`__
-
-`5.1. Linee guida per la costruzione di un sistema di misurazione di
-impatto dell’e-leadership
-15 <#linee-guida-per-la-costruzione-di-un-sistema-di-misurazione-di-impatto-delle-leadership>`__
-
-`5.1.1. Macro-impatti 15 <#macro-impatti>`__
-
-`5.1.2. Impatti verticali degli interventi
-16 <#impatti-verticali-degli-interventi>`__
-
-`5.1.3. Impatti locali sulle aree organizzative
-16 <#impatti-locali-sulle-aree-organizzative>`__
-
-`5.1.4. Impatti verticali-specifici 16 <#impatti-verticali-specifici>`__
-
 1. Premessa 
 ============
 
@@ -246,9 +167,11 @@ un team) in 5 aree di competenza:
 5. **PA digitale:** conoscenza dei processi digitali della pubblica
    amministrazione.
 
-|image0|
+.. image:: eleadership.png
+  :scale: 50 %
+  :alt: LE CINQUE AREE DI COMPETENZA PER L'E-LEADERSHIP
 
-Figura 1. Le cinque aree di competenza per l'e-leadership.
+*Figura 1. Le cinque aree di competenza per l'e-leadership.*
 
 2.2. Descrizione delle cinque aree di competenza
 ------------------------------------------------
@@ -1171,7 +1094,3 @@ Possono essere utilizzati indicatori trasversali di progetto come:
    “Linee guida per la qualità delle competenze digitali nelle
    professionalità ICT” disponibili nel sito:
    http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict
-
-.. |image0| image:: media/image1.png
-   :width: 6.69306in
-   :height: 4.08285in
