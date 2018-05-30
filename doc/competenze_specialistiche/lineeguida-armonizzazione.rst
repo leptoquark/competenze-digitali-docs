@@ -438,7 +438,7 @@ Di seguito un esempio di quadro sinottico realizzato con la comparazione dei pro
 
 
 5. Evoluzioni future
-'''''''''''''''''''''''''''''''
+---------------------------------------------------
 A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regioni, a partire dalla Liguria, si potranno prevedere:
 
 1)	approfondimento dei contenuti delle qualificazioni già presenti nel QNQ (o in singoli repertori) al fine di una loro corretta correlazione con i profili ICT AgID.
@@ -452,7 +452,7 @@ A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regio
 5)	Avvio di un processo sperimentale che preveda la certificazione delle qualificazioni considerate da parte delle regioni attraverso gli enti certificatori accreditati secondo Dlgs. 13/2013.
 
 6. Bibliografia
-'''''''''''''''''''''''''''''''
+---------------------------------------------------
 
 •	AgID - Linee guida per la qualità delle competenze digitali nelle professionalità ICT (Maggio 2018) 
 
