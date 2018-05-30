@@ -370,8 +370,6 @@ L’obiettivo delle presenti linee guida è quello di supportare l’identificaz
 
 Attraverso la disarticolazione è possibile giungere ad una sintesi, di cui il prospetto allegato è un esempio. Il processo di operativizzazione:
 
-
-
 Di seguito si riporta, a titolo esemplificativo, la descrizione del modello del Repertorio Ligure: dalla figura professionale si evidenzia come la centro sia il concetto di competenza, a sua volta articolata in conoscenze e abilità (che in prospettiva sono le variabili utilizzate per risalire alla competenza). Come noto, le figure professionali in generale, quelle dell’ICT in particolare, sono caratterizzate da una rapida evoluzione e modificazioni. Partire dai singoli “standard minimi di competenza” (le conoscenze e abilità) che compongono le competenze e quindi le qualificazioni consente di mantenere aggiornati in modo flessibile e mobile i descrittori delle figure professionali e soprattutto consente di collegare tra loro le diverse classificazioni.
 
 4.1. Definizione di figura professionale
@@ -393,6 +391,7 @@ La figura professionale rappresenta la specifica combinazione di competenze che 
 
 **Figura 1. Schema processi di lavoro-Competenze-Figura professionale**
 
+
 4.2. Conoscenze, abilità e competenze
 '''''''''''''''''''''''''''''''''''''''''''''
 
@@ -410,12 +409,14 @@ Questo tipo di approccio è concettualmente diverso da quello utilizzato all'int
 
 •	Le conoscenze sono intese come saperi in qualche modo formalizzati che il soggetto richiama alla memoria nell’atto di realizzare la prestazione lavorativa.
 
+
 4.3. Identificazione delle componenti essenziali del modello
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Prevedendo l’allineamento di quattro classificazioni (AgID, Istat, QNQ e Repertorio) e l’opportunità di creare una articolazione unica di competenze, è possibile utilizzare lo stesso linguaggio e consentire quindi di connettere le classificazioni delle figure professionali e delle qualificazioni correlate. Di seguito si propone la struttura di un modello condiviso per l’individuazione delle qualificazioni da certificare e delle relative competenze.
 
 È importante, in un’ottica di mobilità europea, importante allineare le qualificazioni ICT al modello e-CF, per poter garantire una certa uniformità di linguaggio e una validità delle certificazioni più ampia e spendibile (vedi Allegato A). 
+
 
 4.4. Struttura del modello
 '''''''''''''''''''''''''''''''
@@ -438,7 +439,7 @@ Di seguito un esempio di quadro sinottico realizzato con la comparazione dei pro
 
 
 5. Evoluzioni future
----------------------
+-----------------------
 
 A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regioni, a partire dalla Liguria, si potranno prevedere:
 
@@ -453,7 +454,7 @@ A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regio
 5)	Avvio di un processo sperimentale che preveda la certificazione delle qualificazioni considerate da parte delle regioni attraverso gli enti certificatori accreditati secondo Dlgs. 13/2013.
 
 6. Bibliografia
------------------
+------------------
 
 •	AgID - Linee guida per la qualità delle competenze digitali nelle professionalità ICT (Maggio 2018) 
 
