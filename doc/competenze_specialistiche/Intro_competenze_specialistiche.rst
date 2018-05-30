@@ -9,7 +9,7 @@ Attraverso azioni indirizzate a imprese e Pubblica Amministrazione, la Strategia
 adottare il modello e-CF come standard di definizione delle competenze digitali e sostenere il sistema formativo nella preparazione di giovani con competenze professionalizzanti più vicine alle aspettative del mercato del lavoro.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    
    lineeguida-armonizzazione.rst
 
