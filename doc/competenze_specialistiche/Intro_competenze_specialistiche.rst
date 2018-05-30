@@ -12,4 +12,5 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
    :maxdepth: 4
    
    lineeguida-armonizzazione.rst
+   lineeguida-competenze.rst
 
