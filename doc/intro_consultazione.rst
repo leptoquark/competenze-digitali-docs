@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 24 maggio 2018 al 23 giugno 2018
+- **Durata della consultazione:** dal 05 giugno 2018 al 06 luglio 2018
 
 
 - **Settore:** ICT
