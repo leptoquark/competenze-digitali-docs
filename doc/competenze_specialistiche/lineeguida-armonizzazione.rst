@@ -38,14 +38,13 @@ INAPP: Istituto Nazionale per l'Analisi delle Politiche Pubbliche (Ex ISFOL)
 
 INAIL:  Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro
 
-
 ISCO: International Standard Classification of Occupation
+
 Istat: Istituto Nazionale di Statistica
 
 MIUR: Ministero dell'istruzione, dell'università e della ricerca
 
 QNQ: Quadro nazionale Qualificazioni
-
 
 QNQR: Qualificazioni Nazionali / Qualificazioni Regionali
 
@@ -60,7 +59,6 @@ UP: Unità Professionali
 
 2. Il contesto normativo e il Repertorio Nazionale
 -----------------------------------------------------
-
 
 La strategia Europa 2020 pone lo sviluppo di conoscenze, capacità e competenze quale premessa per la crescita economica e dell'occupazione al fine di migliorare l'ingresso e la progressione nel mercato del lavoro, facilitare le transizioni tra le fasi lavorative e di apprendimento, promuovere la mobilità geografica e professionale.
 In tale prospettiva si afferma l’esigenza di costruire un sistema di riconoscimento, validazione e certificazione delle competenze che permetta all’individuo di poter valorizzare e spendere le proprie competenze acquisite in un determinato contesto geografico, nel mercato europeo del lavoro e nei sistemi di istruzione e formazione.
@@ -136,7 +134,7 @@ In esso sono contenute le qualificazioni e relative competenze di tutti i Repert
 
 
 2.1 Istituzione del quadro nazionale qualificazioni
-''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con il Decreto dell’8 gennaio 2018 (GU n. 20 del 25 gennaio 2018) il Ministero del Lavoro e delle Politiche Sociali apre all’inquadramento delle qualificazioni internazionali ossia delle qualificazioni rilasciate da un organismo internazionale legalmente costituito o da un organismo nazionale che agisce a nome di un organismo internazionale a condizione che tali qualificazioni siano utilizzate in più di un Paese e includano risultati di apprendimento valutati facendo riferimento alle norme stabilite da un organismo internazionale (arti. 2, c. 1) nell’European Qualification Framework – EQF. Tale sistema di classificazione intende facilitare il mutuo riconoscimento, delle qualificazioni a livello europeo per il loro contenuto di conoscenze e abilità, favorendo una reale libera circolazione dei professionisti nell’Unione, assegnando a ciascuna certificazione un livello EQF nella scala da 1 a 8.
 
@@ -195,7 +193,7 @@ Si inserisce la qualifica professionale assegnata al lavoratore all’atto dell�
 
 
 2.2 L'indagine campionaria sulle professioni
-''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’indagine Campionaria sulle professioni è realizzata congiuntamente dall’INAPP e dall’Istat e ha come obiettivo la raccolta di informazioni utili a rappresentare le caratteristiche delle professioni, con particolare riferimento al contenuto del lavoro svolto e al contesto organizzativo in cui si svolge il lavoro. L’indagine descrive tutte le professioni esistenti nel panorama del mercato del lavoro italiano, da quelle operanti nelle imprese private a quelle presenti nell’ambito delle istituzioni e delle strutture pubbliche, fino a quelle operanti in regime di autonomia. Le risposte sono fornite direttamente dai lavoratori che svolgono la professione oggetto di indagine. 
 L’indagine è inserita nel Programma Statistico Nazionale (ISF 00055). Le informazioni prodotte con l’indagine Campionaria sulle professioni contribuiscono ad alimentare il sistema informativo Professioni, un sistema di web linked open data che collega tra loro le istituzioni che forniscono dati sulle professioni.  Il quadro concettuale di riferimento per l’indagine e le tassonomie di variabili utilizzate sono per lo più mutuate dal modello statunitense dell’Occupational Information Network, O*Net (online.onetcenter.org) utilizzato in Italia anche nell’ambito dell’indagine Audit sui fabbisogni professionali (prima e seconda edizione), realizzata da Isfol. Questa indagine analizza mediante un questionario strutturato particolarmente ricco ed articolato le caratteristiche delle Unità Professionali (UP) presenti nell’ambito della Classificazione delle professioni attualmente vigente nel nostro Paese (CP 2011). 
@@ -219,7 +217,7 @@ Per garantire un sistema di certificazione stabile, efficace e rispettoso delle 
 -	Le “Linee guida per la qualità delle competenze digitali nelle professionalità ICT” (AgID)
 
 3.1. La classificazione ufficiale delle professioni (CP2011)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L'Unità Professionale (UP) rappresenta il massimo livello di dettaglio della CP2011 (V livello). Tra le 800 UP, ne sono state individuate 13 che hanno una corrispondenza diretta con i profili ICT individuati dall’AgID riportati nel prospetto sinottico.
 
@@ -253,7 +251,7 @@ L'Unità Professionale (UP) rappresenta il massimo livello di dettaglio della CP
 
 
 3.2. I Repertori Regionali collegati all’Atlante del Lavoro e delle Qualificazioni
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ogni regione ha la possibilità di creare liberamente le qualificazioni da inserire nei repertori. Ad esempio, nel Repertorio Ligure (DGR 668/17) sono presenti le seguenti figure:
 
@@ -304,7 +302,7 @@ Attualmente, le qualificazioni dei repertori collegate all’ICT sono diversific
 **ADA.16.240.791** Erogazione di servizi ICT in remoto (es. clouding, hosting, help desk, ecc.)
 
 3.3. Linee guida per la qualità delle competenze digitali nelle professionalità ICT - AgID
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questo manuale arricchisce le indicazioni fornite sulla costruzione di contratti di servizio, vedi "Dizionario delle Forniture ICT", al caso più generale nel quale ci sia la necessità di comprendere l’erogazione di prestazioni professionali.
 
@@ -347,7 +345,7 @@ Restano pertanto esclusi attualmente dalla ricollocazione i seguenti profili:
 •	Service Manager
 
 3.4. Correlazione tra le diverse classificazioni
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rispetto a questa ripartizione, esistono tempistiche di aggiornamento ed evoluzione molto diversi:
 
@@ -373,7 +371,8 @@ Attraverso la disarticolazione è possibile giungere ad una sintesi, di cui il p
 Di seguito si riporta, a titolo esemplificativo, la descrizione del modello del Repertorio Ligure: dalla figura professionale si evidenzia come la centro sia il concetto di competenza, a sua volta articolata in conoscenze e abilità (che in prospettiva sono le variabili utilizzate per risalire alla competenza). Come noto, le figure professionali in generale, quelle dell’ICT in particolare, sono caratterizzate da una rapida evoluzione e modificazioni. Partire dai singoli “standard minimi di competenza” (le conoscenze e abilità) che compongono le competenze e quindi le qualificazioni consente di mantenere aggiornati in modo flessibile e mobile i descrittori delle figure professionali e soprattutto consente di collegare tra loro le diverse classificazioni.
 
 4.1. Definizione di figura professionale
-'''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Le figure professionali descritte nel repertorio mirano a supportare le attività delle politiche di orientamento, formazione e lavoro e ad agevolare nella scelta dei percorsi formativi. È possibile consultare le schede, anche in formato PDF, delle diverse figure, in cui sono descritte le "situazioni tipo" di lavoro, le competenze, le conoscenze e le abilità connesse alle diverse professioni. È attivo anche il collegamento al Sistema Informativo Nazionale delle Professioni.
 
 Rappresentano combinazioni di competenze che fanno riferimento a specifici processi produttivi, cioè a componenti relativamente stabili dell’organizzazione del lavoro. La figura professionale descrive nello stesso tempo:
@@ -393,7 +392,7 @@ La figura professionale rappresenta la specifica combinazione di competenze che 
 
 
 4.2. Conoscenze, abilità e competenze
-'''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le figure professionali sono associate alla norma UNI EN 16234-1, contenente la versione in lingua italiana modello CEN e-Competence Framework (e-CF 3.0, divenuto nel 2016 uno standard europeo), che classifica 40 competenze in 5 aree di attività ICT. Il concetto chiave di questo modello è la competenza, definita come “La capacità dimostrata di applicare le conoscenze, gli skills e attitudini per ottenere risultati osservabili”. All'interno dell'e-CF, le competenze vengono descritte dal punto di vista del comportamento osservabile sul luogo di lavoro e degli elementi misurabili di una specifica competenza.
 
@@ -411,7 +410,7 @@ Questo tipo di approccio è concettualmente diverso da quello utilizzato all'int
 
 
 4.3. Identificazione delle componenti essenziali del modello
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Prevedendo l’allineamento di quattro classificazioni (AgID, Istat, QNQ e Repertorio) e l’opportunità di creare una articolazione unica di competenze, è possibile utilizzare lo stesso linguaggio e consentire quindi di connettere le classificazioni delle figure professionali e delle qualificazioni correlate. Di seguito si propone la struttura di un modello condiviso per l’individuazione delle qualificazioni da certificare e delle relative competenze.
 
@@ -437,7 +436,6 @@ B)	Nel caso in cui non siano presenti alcune o la totalità delle qualificazioni
 Di seguito un esempio di quadro sinottico realizzato con la comparazione dei profili (qualificazioni) presenti o in corso di costruzione nel Repertorio di Regione Liguria (le figure indicate con asterisco sono già presenti nel repertorio di Regione Liguria mentre le restanti sono in fase di costruzione).
 
 
-
 5. Evoluzioni future
 -----------------------
 
@@ -452,6 +450,7 @@ A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regio
 4)	Pubblicazione di un documento pubblico di correlazione tra le qualificazioni nazionali e i profili ICT AgID.
 
 5)	Avvio di un processo sperimentale che preveda la certificazione delle qualificazioni considerate da parte delle regioni attraverso gli enti certificatori accreditati secondo Dlgs. 13/2013.
+
 
 6. Bibliografia
 ------------------
