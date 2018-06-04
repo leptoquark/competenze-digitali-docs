@@ -11,6 +11,6 @@
 .. toctree::
    :maxdepth: 3
 
-   doc/intro_competenze
-   doc/intro_consultazione
+   doc/intro_competenze.rst
+   doc/intro_consultazione.rst
  
