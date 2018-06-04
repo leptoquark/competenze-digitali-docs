@@ -3,8 +3,7 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
 
 *Aggiornamento del manuale operativo "Dizionario dei profili di competenza per le professioni ICT", anno 2018*
 
-Generalità del documento
-========================
+**Generalità del documento**
 
 Il presente documento contiene la versione aggiornata rispetto alle
 evoluzioni normative, sia legislative che tecniche, delle linee guida
@@ -15,7 +14,7 @@ All’interno del presente documento si desidera garantire una continuità
 evolutiva delle professionalità ICT ed il contesto di applicazione
 rispetto agli esistenti manuali operativi AgID.
 
-1.1. Obiettivi
+1. Obiettivi
 --------------
 
 Le Linee guida sulla qualità dei beni e dei servizi ICT per la
@@ -153,8 +152,8 @@ una specifica fornitura ICT. Il paragrafo conclusivo del capitolo mette
 a confronto questi due concetti, da cui derivano limiti ed opportunità
 offerti dallo strumento “profilo di competenza”.
 
-1.2. Acronimi e abbreviazioni
------------------------------
+1.1. Acronimi e abbreviazioni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 AgID Agenzia per l'Italia Digitale
 
@@ -249,8 +248,8 @@ UNI Ente Nazionale Italiano di Normazione
 
 WBS Work Breakdown Structure
 
-Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
-==================================================================================================
+2. Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
+---------------------------------------------------------------------------------------------------------
 
 L’evoluzione delle attività economiche, il trasferimento delle
 conoscenze e delle competenze all’interno del mercato unico europeo, in
@@ -284,7 +283,7 @@ Presidente Della Repubblica 5 giugno 2001, n. 328 e successive
 modificazioni e integrazioni [4]_.
 
 2.1. Legge 14 gennaio 2013, n. 4
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con l’approvazione della Legge 4 del 14 gennaio 2013 “Disposizioni in
 materia di professioni non organizzate”  [5]_ l’attività di normazione
@@ -314,7 +313,7 @@ certificato di conformità alla norma tecnica UNI (quale è e-CF, ad
 esempio) definita per la singola professione.
 
 2.2. Decreto Legislativo 16 gennaio 2013, n. 13
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un altro tassello fondamentale in questa direzione è stato poi il D.Lgs.
 16 gennaio 2013, n. 13 [7]_ perché ha inciso profondamente sulle
@@ -399,7 +398,7 @@ strumento affidabile per le esigenze reali del sistema produttivo e darà
 concreto impulso alla libera circolazione delle professioni.
 
 2.3. Norme tecniche di riferimento
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **UNI EN 16234-1:2016** e-Competence Framework (e-CF) - A common
    European Framework for ICT Professionals in all industry sectors -
@@ -469,8 +468,8 @@ concreto impulso alla libera circolazione delle professioni.
    Information Officer, Geographic Information Technician / Specialist
    eGeographic Knowledge Enabler.
 
-Metodologia di lavoro
-=====================
+3. Metodologia di lavoro
+-------------------------
 
 La prima versione delle Linee guida sulla qualità dei beni e dei servizi
 ICT per la definizione ed il governo dei contratti della Pubblica
@@ -496,8 +495,8 @@ nell’ambito del settore professionale ICT, sia dei dipendenti della
 Pubblica Amministrazione che delle figure professionali impegnate nelle
 forniture di servizi alla Pubblica Amministrazione.
 
-Profili di competenza
-=====================
+4. Profili di competenza
+------------------------------
 
 Le modalità di affidamento dei servizi ICT ad un Fornitore esterno sono
 regolate da atti contrattuali il cui scopo principale è quello di
@@ -569,7 +568,7 @@ europeo contenuto nella norma UNI EN 16234-1 "e-Competence Framework",
 utilizzandone la traduzione in lingua italiana.
 
 4.1. Modello e-CF 3.0 (UNI EN 16234-1)
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La norma UNI EN 16234-1 fornisce un riferimento di 40 competenze
 richieste e praticate nel contesto lavorativo dell’Information and
@@ -625,8 +624,7 @@ tre le dimensioni.
 Figura 1. European e-Competence Framework versione 3.0 visione di
 insieme.
 
-I principi guida di e-CF
-~~~~~~~~~~~~~~~~~~~~~~~~
+**I principi guida di e-CF**
 
 -  **e-CF è un abilitatore**; è stato progettato per essere uno
    strumento di empowerment per gli utenti, e non per definire alcun
@@ -653,7 +651,7 @@ I principi guida di e-CF
    rilevanza.
 
 -  **Una competenza può essere una componente del ruolo, ma non può
-   essere usata come sostitutivo della denominazione del ruolo**, ad
+   essere usata come sostitutivo della denominazione del ruolo** , ad
    esempio, la competenza, D.7. “Gestione delle vendite” (Sales
    Management) non rappresenta l’intero profilo del ruolo di “Sales
    Manager”. Le competenze possono essere aggregate, a seconda delle
@@ -701,7 +699,7 @@ competenze e-CF” per un estratto e alla norma UNI EN 16234-1 per il
 dettaglio.
 
 4.2. Albero genealogico dei profili professionali ICT
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con gli elementi del framework definito nella UNI EN 16234-1 è possibile
 identificare le competenze dei singoli soggetti, catalogandole in modo
@@ -720,10 +718,10 @@ la definizione del CV in formato europeo Europass.
 Figura 2. Albero genealogico dei profili ICT.
 
 4.3. Profili professionisti ICT (UNI 11621-2)
----------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.3.1. Account Manager 
-~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Punto di riferimento (focal point) Senior
    per le vendite e la soddisfazione del cliente.
@@ -736,7 +734,7 @@ Figura 2. Albero genealogico dei profili ICT.
    margini.
 
 4.3.2. Business Analyst (Analista di Business)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Analizza il Sistema Informativo per
    migliorare la performance del business.
@@ -749,7 +747,7 @@ Figura 2. Albero genealogico dei profili ICT.
    soluzioni ICT.
 
 4.3.3. Business Information Manager 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Propone piani e gestisce l’evoluzione
    funzionale e tecnica del Sistema Informativo nel dominio del business
@@ -761,7 +759,7 @@ Figura 2. Albero genealogico dei profili ICT.
    qualità di servizio e la soddisfazione del cliente interno.
 
 4.3.4. Chief Information Officer (CIO) 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Sviluppa e mantiene i Sistemi Informativi
    in conformità con il business e le esigenze dell’organizzazione.
@@ -774,7 +772,7 @@ Figura 2. Albero genealogico dei profili ICT.
    cambiamento.
 
 4.3.5. Database Administrator (Amministratore di Database)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta, realizza, o controlla e mantiene
    database.
@@ -789,7 +787,7 @@ Figura 2. Albero genealogico dei profili ICT.
    e realizza misure di sicurezza per salvaguardare il database.
 
 4.3.6. Developer (Sviluppatore)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Realizza/codifica soluzioni ICT e scrive
    le specifiche di prodotti ICT conformemente ai requisiti del cliente
@@ -799,9 +797,10 @@ Figura 2. Albero genealogico dei profili ICT.
    dettaglio. Compila programma di diagnostica e progetta e scrive
    codice per sistemi operativi ed il software per assicurare il massimo
    della funzionalità e dell’efficienza.
+   
 
 4.3.7. Digital Media Specialist (Specialista di Media Digitali)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Crea website ed applicazioni multimediali
    combinando la potenza della tecnologia digitale con un uso efficace
@@ -814,7 +813,7 @@ Figura 2. Albero genealogico dei profili ICT.
    gestione dei contenuti appropriati.
 
 4.3.8. Enterprise Architect 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta e mantiene la Architettura di
    Azienda (Enterprise Architecture)
@@ -826,7 +825,7 @@ Figura 2. Albero genealogico dei profili ICT.
    strategia ed i processi con la strategia IT.
 
 4.3.9. ICT Consultant
-~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Favorisce la comprensione di come le nuove
    tecnologie ICT aggiungano valore al business.
@@ -838,7 +837,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Contribuisce alla definizione del progetto.
 
 4.3.10. ICT Operations Manager (Manager Delle Operazioni ICT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce attività, persone e risorse
    complessive per le operazioni ICT
@@ -852,7 +851,7 @@ Figura 2. Albero genealogico dei profili ICT.
    associati.
 
 4.3.11. ICT Security Manager (Manager della Sicurezza ICT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce la politica di sicurezza del
    Sistema di Informazioni.
@@ -864,7 +863,7 @@ Figura 2. Albero genealogico dei profili ICT.
    dagli stakeholder interni ed esterni.
 
 4.3.12. ICT Security Specialist (Specialista della Sicurezza ICT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura l’implementazione della politica
    di sicurezza aziendale.
@@ -876,7 +875,7 @@ Figura 2. Albero genealogico dei profili ICT.
    tecnico della sicurezza ICT dai colleghi.
 
 4.3.13. ICT Trainer (Docente ICT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Istruisce e forma professionisti ICT per
    raggiungere predefiniti standard di competenza tecnica o di business
@@ -887,7 +886,7 @@ Figura 2. Albero genealogico dei profili ICT.
    loro compiti sul posto di lavoro.
 
 4.3.14. Network Specialist (Specialista di Rete)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura l’allineamento della rete,
    incluse le infrastrutture di telecomunicazione e/o dei computer, per
@@ -898,7 +897,7 @@ Figura 2. Albero genealogico dei profili ICT.
    servizio. Monitorizza e migliora le performance della rete.
 
 4.3.15. Project Manager (Capo Progetto)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce progetti per raggiungere la
    performance ottimale conforme alle specifiche originali.
@@ -910,7 +909,7 @@ Figura 2. Albero genealogico dei profili ICT.
    le performance, i costi ed i tempi definiti.
 
 4.3.16. Quality Assurance Manager (Manager dell’assicurazione Qualità)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura che i Sistemi Informativi siano
    prodotti secondo le politiche aziendali (qualità, rischi, SLA).
@@ -923,7 +922,7 @@ Figura 2. Albero genealogico dei profili ICT.
    statistiche per prevedere i risultati della qualità.
 
 4.3.17. Service Desk Agent (Operatore di Help Desk)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Fornisce la prima linea di supporto
    telefonico o via email per clienti interni o esterni per aspetti
@@ -935,7 +934,7 @@ Figura 2. Albero genealogico dei profili ICT.
    uso efficiente delle attrezzature ICT o delle applicazioni software.
 
 4.3.18. Service Manager 
-~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Pianifica, implementa e gestisce la
    consegna della soluzione.
@@ -950,7 +949,7 @@ Figura 2. Albero genealogico dei profili ICT.
    delle organizzazioni di business/finanza.
 
 4.3.19. Systems Administrator (Amministratore di Sistemi)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Amministra i componenti del sistema ICT
    per soddisfare i requisiti del servizio.
@@ -961,7 +960,7 @@ Figura 2. Albero genealogico dei profili ICT.
    le esigenze di performance.
 
 4.3.20. Systems Analyst (Analista di Sistemi)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Analizza i requisiti e specifica software
    e sistemi.
@@ -970,7 +969,7 @@ Figura 2. Albero genealogico dei profili ICT.
    all’implementazione di nuovo software e/o di miglioramenti.
 
 4.3.21. Systems Architect (Architetto di Sistemi)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Pianifica e garantisce l’implementazione e
    l’integrazione di software e/o di sistemi ICT.
@@ -983,7 +982,7 @@ Figura 2. Albero genealogico dei profili ICT.
    esperti tecnici.
 
 4.3.22. Technical Specialist 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Mantiene e ripara hardware e software su
    indicazione del cliente.
@@ -994,7 +993,7 @@ Figura 2. Albero genealogico dei profili ICT.
    soddisfazione del cliente.
 
 4.3.23. Test Specialist (Specialista del Testing)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta e attua i piani di test.
 
@@ -1005,10 +1004,10 @@ Figura 2. Albero genealogico dei profili ICT.
    identificando le anomalie e diagnosticandone le possibili cause.
 
 4.4. Profili professionisti Web (UNI 11621-3)
----------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 4.4.1. Web Community Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale del settore Marketing
    & Comunicazione digitale che si occupa di gestire comunità virtuali
@@ -1031,7 +1030,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.2. Web Project Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
    gestione delle attività legate ad un progetto in ambito Web. È il
@@ -1056,7 +1055,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Project Manager.
 
 4.4.3. Web Account Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
    gestione dei clienti prospect (potenziali) e/o fidelizzati di
@@ -1077,7 +1076,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Account Manager.
 
 4.4.4. User Experience Designer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile del
    design visuale e dell’interazione fra utente e sistema attraverso
@@ -1099,7 +1098,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.5. Web Business Analyst
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che analizza le
    necessità di business del committente per consentire al team di
@@ -1118,7 +1117,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Business Analyst.
 
 4.4.6. Web DB Administrator
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che ha il compito di
    realizzare e mantenere in esercizio i database utilizzati o gestiti
@@ -1137,7 +1136,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Administrator.
 
 4.4.7. Search Engine Expert
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che, gestendo e
    supportando lo sviluppo di servizi Web e di marketing digitale, si
@@ -1158,7 +1157,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.8. Web Advertising Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
    pianificazione e del coordinamento dell’intero processo di
@@ -1185,7 +1184,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.9. Frontend Web Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che realizza e/o
    codifica interfacce Web based in conformità dei requisiti del
@@ -1203,7 +1202,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.10. Server Side Web Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
    creazione di applicazioni Web lato server, necessarie alla
@@ -1220,7 +1219,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
 4.4.11. Web Content Specialist
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si colloca tra il
    settore della Comunicazione digitale e il Marketing. Gestisce i
@@ -1239,7 +1238,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.12. Web Server Administrator
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che amministra i
    componenti del sistema ICT per soddisfare i requisiti del servizio
@@ -1255,7 +1254,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Administrator.
 
 4.4.13. Information Architect
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa
    principalmente di identificare e rappresentare la struttura degli
@@ -1275,7 +1274,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Systems Architect.
 
 4.4.14. Digital Strategic Planner
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che supporta il
    management di un’organizzazione nelle scelte strategiche relative
@@ -1290,7 +1289,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Service Manager.
 
 4.4.15. Web Accessibility Expert
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale a supporto dello
    sviluppo dei servizi Web per garantire la conformità di quanto
@@ -1310,7 +1309,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.16. Web Security Expert
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che analizza il
    contesto IT di riferimento, valuta e propone l’opportuna politica di
@@ -1336,7 +1335,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.17. Mobile Application Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che realizza/codifica
    soluzioni applicative per periferiche mobile e scrive le specifiche
@@ -1354,7 +1353,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
 4.4.18. E-Commerce Specialist
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta degli
    standard, delle tecnologie e delle attività correlate al commercio
@@ -1369,7 +1368,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
 4.4.19. Online Store Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile del
    "conto economico del negozio online presente sul Web",
@@ -1386,7 +1385,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.4.20. Reputation Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa di
    analizzare, gestire e influenzare la reputazione di chiunque
@@ -1404,7 +1403,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.21. Knowledge Manager
-~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che promuove le
    attività connesse alla gestione e comunicazione delle conoscenze
@@ -1423,7 +1422,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Service Manager.
 
 4.4.22. Web Augmented Reality Expert
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
    progettazione e realizzazione di sistemi di realtà aumentata in
@@ -1449,7 +1448,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
 4.4.23. E-Learning Specialist
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta dei processi
    e delle metodologie didattiche in Rete. Coordina e sviluppa percorsi
@@ -1467,7 +1466,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** ICT Trainer.
 
 4.4.24. Web Data Scientist
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale a cui fanno capo le
    attività, in genere realizzate in ambienti internet e Web based, di
@@ -1496,7 +1495,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.4.25. Wikipedian
-~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Il Wikipedian collabora ai progetti
    Wikimedia (wikimedia.org) fra cui Wikipedia, anche creando e
@@ -1518,10 +1517,10 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5. Profili professionisti sicurezza ICT (UNI 11621-4)
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.5.1. Responsabile di sistemi per la gestione della sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Responsabile di massimo livello
    nell'ambito del sistema per la gestione della sicurezza delle
@@ -1540,7 +1539,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.5.2. Responsabile della sicurezza dei sistemi per la conservazione digitale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura di riferimento per la gestione
    della sicurezza dei sistemi per la conservazione sostitutiva della
@@ -1563,7 +1562,8 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.5.3. Responsabile della continuità operativa (ICT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 
 -  **Definizione sintetica.** Responsabile di massimo livello per la
    gestione della continuità operativa ICT, così come richiamato dalle
@@ -1585,7 +1585,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.5.4. Responsabile della sicurezza delle informazioni (CISO)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Il Chief information security officer,
    abbreviato in CISO, è, ove presente, il responsabile di massimo
@@ -1605,7 +1605,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.5.5. Manager della sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura di riferimento per insiemi definiti
    di attività e progetti collegate alla gestione della sicurezza delle
@@ -1623,7 +1623,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Manager.
 
 4.5.6. Analista di processo per la sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura dedicata al controllo del rispetto
    alle regole definite e del cogente in materia di sicurezza delle
@@ -1641,7 +1641,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.7. Analista tecnico per la sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla verifica
    tecnica della sicurezza delle informazioni dei sistemi, delle reti e
@@ -1660,7 +1660,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.8. Analista forense per gli incidenti ICT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata all'analisi
    tecnica della sicurezza delle informazioni dei sistemi, delle reti e
@@ -1676,7 +1676,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.9. Specialista di processo della sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
    pianificazione e all'attuazione dei processi relativi alla gestione
@@ -1692,7 +1692,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.10. Specialista infrastrutturale della sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
    pianificazione e all'implementazione delle soluzioni per la sicurezza
@@ -1711,7 +1711,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.11. Specialista applicativo della sicurezza delle informazioni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
    pianificazione e all'implementazione delle soluzioni applicative per
@@ -1729,7 +1729,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.5.12. Specialista nella risposta agli incidenti 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa addetta alla gestione
    delle azioni di risposta agli incidenti relativi alla sicurezza delle
@@ -1746,10 +1746,10 @@ Figura 2. Albero genealogico dei profili ICT.
    Specialist.
 
 4.6. Profili professionali relativi all’informazione geografica
----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.6.1. GeoData Analyst (GDA)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta dei processi,
    delle metodologie e delle tecnologie di acquisizione e di
@@ -1782,7 +1782,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Systems Analyst.
 
 4.6.2. Geographic Information Manager (GIM)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale inserita negli
    organismi di governance di un’organizzazione, per sostenere e
@@ -1818,7 +1818,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Officer (CIO).
 
 4.6.3. Geographic Information Officer (GIO)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
    gestione delle attività, delle persone e delle risorse complessive
@@ -1839,7 +1839,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** Project Manager.
 
 4.6.4. Geographic Information Technician / Specialist (GIT/S)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta nelle più
    comuni elaborazioni delle informazioni geografiche: acquisizione,
@@ -1865,7 +1865,7 @@ Figura 2. Albero genealogico dei profili ICT.
    Administrator.
 
 4.6.5. Geographic Knowledge Enabler (GKE)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta in materia di
    alfabetizzazione spaziale (spatial literacy) e metodologie per lo
@@ -1893,7 +1893,7 @@ Figura 2. Albero genealogico dei profili ICT.
 -  **Profilo di seconda generazione di riferimento.** ICT Trainer.
 
 4.7. Altri profili professionali ICT
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le norme sviluppate successivamente alla pubblicazione di questo
 manuale, disponibili nel sito UNI e relative alla famiglia UNI 11621,
@@ -1906,8 +1906,8 @@ capitolo 2.
 AgID si impegna comunque a mantenere aggiornato e allineato il presente
 documento alle norme tecniche vigenti.
 
-Utilizzo dei profili di competenza
-==================================
+5. Utilizzo dei profili di competenza
+---------------------------------------
 
 In questo capitolo si vogliono fornire alcune indicazioni operative che
 consentano di individuare quando, in quali circostanze e con quali
@@ -1915,10 +1915,10 @@ modalità i profili di competenza (descritti nei lemmi collegati al
 presente dizionario) possono essere utilizzati.
 
 5.1. Gare di fornitura
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 5.1.1. Analisi dei costi
-~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""
 
 L’attività di stima ed analisi dei costi, poiché rappresenta un
 parametro decisivo per orientare le decisioni sulla convenienza e
@@ -1982,7 +1982,7 @@ denominazioni alternative in altri sistemi di classificazione, nel caso
 in cui il costo di mercato sia noto per tali figure.
 
 5.1.2. Analisi dei rischi
-~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""
 
 Il capitolato tecnico è il documento che illustra le necessità che
 l’Amministrazione appaltante intende soddisfare attraverso una fornitura
@@ -2083,7 +2083,7 @@ come riferimento generico, il modello europeo DigCOMP 2.1 [9]_, di cui
 AgID ha curato la traduzione ufficiale in lingua italiana [10]_.
 
 5.1.3. Definizione del capitolato tecnico
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"""""""""""""""""""""""""""""""""""""""""""""
 
 La definizione di una figura professione nell’ambito di un capitolato
 tecnico si compone, oltre ad un tipico profilo di competenza, di altre
@@ -2247,7 +2247,7 @@ dei seguenti temi:
    disegno applicativo, l’automazione test, ecc.
 
 5.1.4. Istruzioni per la compilazione delle offerte
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Le istruzioni per la compilazione delle offerte, parte integrante dei
 documenti di gara, sono finalizzate ad aumentare la probabilità di
@@ -2340,7 +2340,7 @@ ricercato dal capitolato tecnico. In particolare, occorre specificare:
       capitolato
 
 5.2. Acquisizione di risorse umane
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I profili ICT contenuti all’interno di queste linee guida possono essere
 un utile strumento per supportare l’acquisizione di competenze esterne
@@ -2365,7 +2365,7 @@ supportare le attività progettuali destinate alla trasformazione
 digitale della Pubblica amministrazione italiana [12]_.
 
 5.3. Definizione di attività formative
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con il decreto dell'8 gennaio 2018 (GU n. 20 del 25 gennaio 2018) il
 Ministero del lavoro ha istituito il Quadro Nazionale delle
@@ -2412,7 +2412,7 @@ guida per la qualità delle competenze digitali nelle professionalità
 ICT” a cura dell’Agenzia per l’Italia Digitale.
 
 5.4. Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione 
----------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al fine di garantire una armonizzazione delle terminologie utilizzate
 nel mercato e dai diversi soggetti pubblici per identificare le
@@ -2446,7 +2446,7 @@ garantisce comunque un rapporto 1:1 tra i profili normati e le
 terminologie di terze parti.
 
 6. Appendici
-============
+-------------
 
 Sono proposte le seguenti appendici rispettivamente dedicate alla
 presentazione:
@@ -2458,16 +2458,16 @@ presentazione:
    catalogazioni di altri soggetti.
 
 6.1 Mappa delle competenze professionali ICT europee (e-CF 3.0)
----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si riporta di seguito la mappatura delle competenze E-CF 3.0. Per
 approfondimenti si rimanda alla norma UNI EN 16234-1.
 
 A. PLAN
-~~~~~~~
+"""""""""
 
-A.1 Allineamento Strategie dei Sistemi Informativi e di Business 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.1 Allineamento Strategie dei Sistemi Informativi e di Business** 
+
 
 Anticipa i requisiti di business di lungo termine, favorisce il
 miglioramento dell’efficienza e dell’efficacia dei processi
@@ -2476,16 +2476,14 @@ linea con la politica aziendale e garantisce un ambiente sicuro. Prende
 decisioni strategiche sulla politica IS dell’impresa, comprese le
 strategie di sourcing.
 
-A.2. Gestione dei Livelli di Servizio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.2. Gestione dei Livelli di Servizio**
 
 Definisce, valida e rende applicabile il service level agreement (SLA) e
 i contratti su cui si fonda per i servizi offerti. Negozia i livelli di
 performance del servizio tenendo conto delle necessità e delle capacità
 degli stakeholder clienti e del business.
 
-A.3 Sviluppo del Business Plan
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.3 Sviluppo del Business Plan**
 
 Indirizza l’ideazione e la struttura di un business o di un piano di
 prodotto compresa l’identificazione di approcci alternativi e le
@@ -2496,8 +2494,7 @@ con le strategie di business e tecnologiche. Comunica e condivide il
 Business Plan con gli stakeholder più importanti e indirizza gli
 interessi politici, finanziari, e organizzativi.
 
-A.4 Pianificazione di Prodotto o di Servizio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.4 Pianificazione di Prodotto o di Servizio**
 
 Analizza e definisce lo status corrente e quello obiettivo. Stima
 l’efficacia dei costi, i punti di rischio, le opportunità, i punti di
@@ -2509,8 +2506,7 @@ ulteriori requisiti di documentazione. Specifica il corretto trattamento
 dei prodotti, compresi gli aspetti legali correlati alla normativa
 vigente.
 
-A.5 Progettazione di Architetture
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.5 Progettazione di Architetture**
 
 Specifica, affina, aggiorna e rende disponibile un approccio formale
 all’implementazione delle soluzioni, necessario per sviluppare e gestire
@@ -2520,8 +2516,7 @@ Assicura l’interoperabilità, la scalabilità, l’usabilità e la sicurezza.
 Mantiene l’allineamento tra l’evoluzione del business e gli sviluppi
 tecnologici.
 
-A.6. Progettazione di Applicazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.6. Progettazione di Applicazioni**
 
 Analizza, specifica, aggiorna e rende disponibile un modello per
 implementare le applicazioni in conformità con la politica e le esigenze
@@ -2534,16 +2529,14 @@ fruibilità e la sicurezza. Identifica un Framework di riferimento comune
 per validare i modelli con gli utenti rappresentativi, sulla base dei
 modelli di sviluppo (es. l’approccio iterativo).
 
-A.7 Monitoraggio dei Trend tecnologici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.7 Monitoraggio dei Trend tecnologici**
 
 Esplora gli ultimi sviluppi tecnologici dell’ICT per comprendere
 l’evoluzione della tecnologia. Concepisce soluzioni innovative per
 l’integrazione di nuove tecnologie nei prodotti, applicazioni e servizi
 esistenti o per la creazione di nuove soluzioni.
 
-A.8. Sviluppo Sostenibile
-^^^^^^^^^^^^^^^^^^^^^^^^^
+**A.8. Sviluppo Sostenibile**
 
 Stima l’impatto delle soluzioni ICT in termini di eco responsabilità
 incluso il consumo di energia. Consiglia gli stakeholder business e ICT
@@ -2551,8 +2544,7 @@ sulle alternative sostenibili coerenti con la strategia di business.
 Applica una politica ICT degli acquisti e delle vendite che soddisfi le
 eco-responsabilità.
 
-A.9. Innovazione
-^^^^^^^^^^^^^^^^
+**A.9. Innovazione**
 
 Escogita soluzioni creative per fornire nuovi concetti, idee, prodotti o
 servizi. Adotta un approccio mentale innovativo e aperto allo scopo di
@@ -2561,10 +2553,9 @@ le esigenze del business/della società o identificare la direzione per
 la ricerca.
 
 B. BUILD
-~~~~~~~~
+"""""""""
 
-B.1. Sviluppo di Applicazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**B.1. Sviluppo di Applicazioni**
 
 Adatta il processo di progettazione delle applicazioni per sviluppare
 un’applicazione personalizzata e conforme alle esigenze del cliente.
@@ -2576,8 +2567,7 @@ riconfigurazione di componenti esistenti. Ottimizza efficienza, costi e
 qualità. Convalida i risultati con gli utenti rappresentativi, integra e
 realizza la soluzione complessiva.
 
-B.2. Integrazione dei Componenti 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**B.2. Integrazione dei Componenti**
 
 Installa hardware, software o componenti di sottosistema in un sistema
 esistente o proposto. Si conforma ai processi e alle procedure definite
@@ -2587,8 +2577,7 @@ assicurare l’integrità, l’interoperabilità e la sicurezza delle
 informazioni. Verifica le performance del sistema e garantisce la
 validazione e la documentazione dell’esito favorevole dell’integrazione.
 
-B.3. Testing
-^^^^^^^^^^^^
+**B.3. Testing**
 
 Costruisce ed esegue procedure di test sistematico per i sistemi ICT o
 per i requisiti di usabilità del cliente per stabilire la conformità con
@@ -2599,8 +2588,7 @@ sicurezza, usabilità, performance, affidabilità e compatibilità. Produce
 i documenti e i report che danno evidenza dei requisiti di
 certificazione.
 
-B.4. Rilascio (deployment) della Soluzione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**B.4. Rilascio (deployment) della Soluzione**
 
 Seguendo standard generali predefiniti di esercizio realizza gli
 interventi necessari pianificati per implementare la soluzione, tra cui
@@ -2613,8 +2601,7 @@ operante all’utente e completa la documentazione registrando tutte le
 informazioni rilevanti, compreso gli indirizzi delle apparecchiature, i
 dati di configurazione e di performance.
 
-B.5. Produzione della Documentazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**B.5. Produzione della Documentazione**
 
 Produce documenti che descrivono prodotti, servizi, componenti o
 applicazioni conformi con i requisiti relativi alla documentazione.
@@ -2624,8 +2611,7 @@ Garantisce che le funzioni e le caratteristiche siano documentate in un
 modo appropriato. Garantisce che i documenti esistenti siano validi e
 aggiornati.
 
-B.6. Ingegneria dei Sistemi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**B.6. Ingegneria dei Sistemi**
 
 Ingegnerizza il software e/o i componenti hardware per soddisfare le
 esigenze di soluzioni quali specifiche, costi, qualità, tempi,
@@ -2636,10 +2622,9 @@ sistema e conduce simulazioni di comportamento del sistema. Esegue test
 di unità e di sistema per garantire la conformità ai requisiti.
 
 C. RUN
-~~~~~~
+"""""""""
 
-C.1. Assistenza all’Utente
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+**C.1. Assistenza all’Utente**
 
 Risponde alle richieste e ai problemi dell’utente; registra le
 informazioni rilevanti. Risolve o scala gli incidenti e ottimizza le
@@ -2647,8 +2632,7 @@ performance del sistema rispettando i livelli di servizio predefiniti
 (SLA). Sa come effettuare il monitoraggio sugli esiti della soluzione e
 la risultante customer satisfaction.
 
-C.2. Supporto alle modifiche/evoluzioni del sistema
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**C.2. Supporto alle modifiche/evoluzioni del sistema**
 
 Implementa e guida l’evoluzione di una soluzione ICT. Controlla e
 schedula in modo efficiente le modifiche software o hardware per
@@ -2658,8 +2642,7 @@ aderisce ai service level agreement (SLA) definiti. Garantisce
 conformità e il rispetto delle procedure di sicurezza delle
 informazioni.
 
-C.3. Erogazione del Servizio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**C.3. Erogazione del Servizio**
 
 Garantisce l’erogazione dei servizi in conformità con i livelli di
 servizio stabiliti (SLA). Opera in modo proattivo per garantire
@@ -2670,8 +2653,7 @@ la manutenzione degli strumenti di monitoraggio e di gestione (es.
 Script, Procedure...). Mantiene i servizi dei sistemi informativi.
 Prende misure proattive.
 
-C.4. Gestione del Problema
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+**C.4. Gestione del Problema**
 
 Identifica e risolve le cause degli incidenti. Adotta un approccio
 proattivo alle cause principali di problemi ICT. Effettua il deployment
@@ -2680,10 +2662,9 @@ Risolve o scala gli incidenti. Ottimizza le performance di sistemi e
 componenti.
 
 D. ENABLE
-~~~~~~~~~
+""""""""""
 
-D.1. Sviluppo della Strategia per la Sicurezza Informatica
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.1. Sviluppo della Strategia per la Sicurezza Informatica**
 
 Definisce e rende applicabile formalmente la strategia, gli obiettivi e
 la cultura organizzativa al fine di mantenere la sicurezza e la difesa
@@ -2694,8 +2675,7 @@ e delle responsabilità. Usa gli standard definiti per determinare gli
 obiettivi per l’integrità, la disponibilità e la privacy delle
 informazioni.
 
-D.2. Sviluppo della Strategia della Qualità ICT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.2. Sviluppo della Strategia della Qualità ICT**
 
 Definisce, migliora e perfeziona una strategia formale per soddisfare le
 aspettative e migliorare le performance del business cliente
@@ -2706,8 +2686,7 @@ standard definiti per formulare gli obiettivi di qualità della gestione
 del servizio, del prodotto e del processo. Identifica le responsabilità
 di gestione della qualità ICT.
 
-D.3. Fornitura dei servizi di Formazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.3. Fornitura dei servizi di Formazione**
 
 Definisce e implementa una politica di formazione ICT per indirizzare i
 fabbisogni e i gap delle competenze dell’organizzazione. Struttura,
@@ -2716,8 +2695,7 @@ attraverso un processo di feedback e attua un continuo miglioramento.
 Adatta i piani di formazione per indirizzare il cambiamento della
 domanda.
 
-D.4. Acquisti
-^^^^^^^^^^^^^
+**D.4. Acquisti**
 
 Applica una procedura consistente per gli approvvigionamenti,
 comprendente il deployment dei seguenti sotto-processi: specifiche dei
@@ -2729,8 +2707,7 @@ l’intero processo di approvvigionamento sia adatto allo scopo, aggiunga
 valore al business dell’organizzazione e che sia conforme a norme e
 requisiti legali.
 
-D.5. Sviluppo dell’offerta
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.5. Sviluppo dell’offerta**
 
 Sviluppa offerte tecniche per soddisfare i requisiti delle soluzioni per
 i clienti e le mette a disposizione del personale delle vendite con una
@@ -2739,8 +2716,7 @@ l’impatto ambientale. Collabora con i colleghi per allineare la
 soluzione prodotto/servizio con la capacità di delivery delle
 organizzazioni.
 
-D.6. Gestione del Canale di Vendita
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.6. Gestione del Canale di Vendita**
 
 Sviluppa la strategia per gestire i punti vendita delle terze parti.
 Assicura le performance commerciali ottimali del canale value-added
@@ -2750,8 +2726,7 @@ copertura geografica e il settore industriale su cui ingaggiare i VAR e
 i programmi di incentivazione per raggiungere i risultati di vendita
 premianti.
 
-D.7. Gestione delle Vendite
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.7. Gestione delle Vendite**
 
 Guida l’ottenimento dei risultati delle vendite attraverso
 l’introduzione di una strategia delle vendite. Dimostra il valore
@@ -2763,8 +2738,7 @@ approccio sistematico all’intero processo delle vendite, comprensivo di:
 comprensione dei fabbisogni del cliente, previsioni, valutazione delle
 potenzialità, tattiche di negoziazione e finalizzazione delle vendite.
 
-D.8. Gestione del Contratto 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.8. Gestione del Contratto**
 
 Organizza e negozia il contratto in accordo con i processi
 organizzativi. Assicura che i deliverables del fornitore siano forniti
@@ -2776,8 +2750,7 @@ Valuta e indirizza la conformità del fornitore rispetto agli standard
 relativi agli aspetti legali, della salute e della sicurezza. Persegue
 attivamente una comunicazione regolare con il fornitore.
 
-D.9. Sviluppo del Personale 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.9. Sviluppo del Personale**
 
 Diagnostica le competenze individuali e di gruppo, identificando il
 fabbisogno di skill e gli skill gap. Esamina le opzioni di formazione e
@@ -2785,8 +2758,7 @@ sviluppo e seleziona l’appropriata metodologia tenendo conto delle
 necessità degli individui e del business. Prepara e /o addestra
 individui e team per indirizzare i fabbisogni di apprendimento.
 
-D.10. Gestione dell’Informazione e della Conoscenza
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.10. Gestione dell’Informazione e della Conoscenza**
 
 Identifica e gestisce informazioni strutturate e non strutturate e
 considera le politiche sulla distribuzione dell’informazione. Crea la
@@ -2796,8 +2768,7 @@ strumenti appropriati che devono essere diffusi per creare, estrarre,
 mantenere, rinnovare e diffondere la conoscenza del business al fine di
 capitalizzare il patrimonio informativo.
 
-D.11. Identificazione dei Fabbisogni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**D.11. Identificazione dei Fabbisogni**
 
 Ascolta attivamente i clienti interni/esterni, articola e chiarisce le
 loro esigenze. Gestisce i rapporti con tutti gli stakeholder per
@@ -2807,8 +2778,7 @@ contestuale nella progettazione di un sistema user centered. Consiglia
 al cliente la scelta appropriata. Agisce attivamente impegnandosi nel
 processo di implementazione o configurazione della soluzione scelta.
 
-D.12. Marketing Digitale
-^^^^^^^^^^^^^^^^^^^^^^^^
+**D.12. Marketing Digitale**
 
 Conosce i princìpi fondamentali del marketing digitale. Distingue tra
 gli approcci tradizionali e digitali. Apprezza e conosce la gamma di
@@ -2819,10 +2789,9 @@ problematiche della protezione dei dati e le questioni di privacy e ne
 tiene conto nell’attuazione della strategia di marketing.
 
 E. MANAGE
-~~~~~~~~~
+""""""""""
 
-E.1. Formulazione delle Previsioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.1. Formulazione delle Previsioni**
 
 Conosce i princìpi fondamentali del marketing digitale. Distingue tra
 gli approcci tradizionali e digitali. Apprezza e conosce la gamma di
@@ -2832,8 +2801,7 @@ utilizzando i mezzi più efficaci a disposizione. Conosce le
 problematiche della protezione dei dati e le questioni di privacy e ne
 tiene conto nell’attuazione della strategia di marketing.
 
-E.2. Gestione del Progetto e del Portfolio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.2. Gestione del Progetto e del Portfolio**
 
 Implementa i piani per un programma di cambiamento. Pianifica e dirige
 un singolo progetto ICT od un portfolio di progetti per assicurare il
@@ -2847,16 +2815,14 @@ Consegna progetti nei tempi previsti, con il budget previsto e conformi
 ai requisiti originari. Crea produce e mantiene i documenti per
 facilitare il monitoraggio dell’avanzamento del progetto.
 
-E.3. Gestione del Rischio
-^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.3. Gestione del Rischio**
 
 Implementa la gestione del rischio dei sistemi informativi attraverso
 l’applicazione delle politiche e procedure definite dall’azienda per il
 risk management. Valuta il rischio per il business dell’organizzazione e
 documenta rischi potenziali e piani di prevenzione.
 
-E.4. Gestione delle Relazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.4. Gestione delle Relazioni**
 
 Stabilisce e mantiene relazioni di business positive con clienti e
 fornitori (interni o esterni) conformi ai processi organizzativi.
@@ -2866,8 +2832,7 @@ comunicazioni della filiera della fornitura. Assicura che le esigenze,
 preoccupazioni o lamentele del cliente/partner/fornitore siano comprese
 e soddisfatte in accordo con la politica dell’organizzazione.
 
-E.5. Miglioramento dei processi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.5. Miglioramento dei processi**
 
 Misura l’efficacia dei processi ICT esistenti. Ricerca e paragona il
 disegno dei processi ICT da una varietà di fonti. Segue una metodologia
@@ -2875,8 +2840,7 @@ sistematica per valutare, progettare e implementare processi o
 cambiamenti tecnologici finalizzati a benefici di business misurabili.
 Valuta potenziali controindicazioni del cambiamento di processo.
 
-E.6. Gestione della Qualità ICT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.6. Gestione della Qualità ICT**
 
 Implementa la politica di qualità ICT per mantenere ed aumentare la
 fornitura di prodotti e servizi. Pianifica e definisce indicatori per
@@ -2884,8 +2848,7 @@ gestire la qualità per quanto riguarda la strategia ICT. Controlla gli
 indicatori di performance della qualità e ne raccomanda un accrescimento
 per indurre un miglioramento continuo della qualità.
 
-E.7. Gestione del Cambiamento del Business
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.7. Gestione del Cambiamento del Business**
 
 Valuta le implicazioni di nuove soluzioni ICT. Definisce i requisiti e
 quantifica i benefici di business. Gestisce la diffusione del
@@ -2894,8 +2857,7 @@ Mantiene la continuità del business e dei processi per la durata del
 cambiamento, controllandone l’impatto, prendendo le eventuali misure
 correttive e mettendone a punto l’approccio.
 
-E.8. Gestione della Sicurezza dell’Informazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.8. Gestione della Sicurezza dell’Informazione**
 
 Implementa la politica della sicurezza dell’informazione. Controlla e
 prende iniziative a fronte di intrusioni, frodi e buchi o falle della
@@ -2904,8 +2866,7 @@ e gestiti per i dati e le informazioni aziendali. Rivede gli incidenti
 sulla sicurezza e fornisce raccomandazioni per applicare strategia e
 policy specifiche per un miglioramento continuo della sicurezza fornita.
 
-E.9. Governance dei Sistemi Informativi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**E.9. Governance dei Sistemi Informativi**
 
 Definisce, realizza e controlla la gestione dei sistemi informativi in
 linea con i vincoli di business. Tiene conto di tutti i parametri
@@ -2915,8 +2876,9 @@ risorse al fine di raggiungere i benefici di business messi a bilancio.
 
 .. _correlazione-tra-profili-di-riferimento-e-ulteriori-terminologie-di-catalogazione-1:
 
+
 6.2. Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione
---------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nota: Tale mappatura è a titolo esemplificativo, e non garantisce
 comunque un rapporto 1:1 tra i profili normati e le terminologie di
