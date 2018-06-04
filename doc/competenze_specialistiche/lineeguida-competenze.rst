@@ -715,9 +715,11 @@ accomuna tutti questi profili è lo schema tipo utilizzato per la
 catalogazione, con campi ben definiti, così come avviene similmente per
 la definizione del CV in formato europeo Europass.
 
-|image1|
+.. image:: albero.png
+  :scale: 50 %
+  :alt: Figura 2. Albero genealogico dei profili ICT.
 
-Figura 2. Albero genealogico dei profili ICT.
+**Figura 2. Albero genealogico dei profili ICT.**
 
 4.3. Profili professionisti ICT (UNI 11621-2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
