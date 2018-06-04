@@ -368,6 +368,13 @@ L’obiettivo delle presenti linee guida è quello di supportare l’identificaz
 
 Attraverso la disarticolazione è possibile giungere ad una sintesi, di cui il prospetto allegato è un esempio. Il processo di operativizzazione:
 
+1.	parte dall’attribuzione di una unità di analisi al concetto (quali attività chiave per quella figura);
+
+2.	fornisce una definizione operativa (attribuisce una regola per la sua traduzione, ossia esplicita il risultato atteso di quella specifica competenza);
+
+3.	definisce gli “indicatori”, nel nostro caso le Attività (Aree di Attività – Unità di Competenza) che compongono la figura.
+
+
 Di seguito si riporta, a titolo esemplificativo, la descrizione del modello del Repertorio Ligure: dalla figura professionale si evidenzia come la centro sia il concetto di competenza, a sua volta articolata in conoscenze e abilità (che in prospettiva sono le variabili utilizzate per risalire alla competenza). Come noto, le figure professionali in generale, quelle dell’ICT in particolare, sono caratterizzate da una rapida evoluzione e modificazioni. Partire dai singoli “standard minimi di competenza” (le conoscenze e abilità) che compongono le competenze e quindi le qualificazioni consente di mantenere aggiornati in modo flessibile e mobile i descrittori delle figure professionali e soprattutto consente di collegare tra loro le diverse classificazioni.
 
 4.1. Definizione di figura professionale
