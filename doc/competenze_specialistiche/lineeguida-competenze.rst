@@ -3,7 +3,8 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
 
 *Aggiornamento del manuale operativo "Dizionario dei profili di competenza per le professioni ICT", anno 2018*
 
-**Generalità del documento**
+1. Generalità del documento**
+-------------------------------
 
 Il presente documento contiene la versione aggiornata rispetto alle
 evoluzioni normative, sia legislative che tecniche, delle linee guida
@@ -14,7 +15,7 @@ All’interno del presente documento si desidera garantire una continuità
 evolutiva delle professionalità ICT ed il contesto di applicazione
 rispetto agli esistenti manuali operativi AgID.
 
-1. Obiettivi
+Obiettivi
 --------------
 
 Le Linee guida sulla qualità dei beni e dei servizi ICT per la
