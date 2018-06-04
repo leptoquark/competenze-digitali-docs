@@ -225,7 +225,7 @@ L'Unità Professionale (UP) rappresenta il massimo livello di dettaglio della CP
 
 **2.1.1.4.1**	 Analisti e Progettisti di Software
 
-**2.1.1.4.**	 Analisti di Sistema
+**2.1.1.4.2**	 Analisti di Sistema
 
 **2.1.1.4.3** 	 Analisti e Progettisti di Applicazioni Web
 
