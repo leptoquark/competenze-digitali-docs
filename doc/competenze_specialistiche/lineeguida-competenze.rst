@@ -155,98 +155,97 @@ offerti dallo strumento “profilo di competenza”.
 1.1. Acronimi e abbreviazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-AgID Agenzia per l'Italia Digitale
+**AgID** Agenzia per l'Italia Digitale
 
-ANPAL Agenzia Nazionale Politiche Attive Lavoro
+**ANPAL** Agenzia Nazionale Politiche Attive Lavoro
 
-Ateco Attività Economiche
+**Ateco** Attività Economiche
 
-CASE Computer Aided Software Engineering
+**CASE** Computer Aided Software Engineering
 
-CEN Comitato Europeo di Normazione
+**CEN** Comitato Europeo di Normazione
 
-CERT Computer Emergency Response Team
+**CERT** Computer Emergency Response Team
 
-CIO Chief Information Officer
+**CIO** Chief Information Officer
 
-CISO Chief Information Security Officer
+**CISO** Chief Information Security Officer
 
-CNIPA Centro Nazionale Informatica Pubblica Amministrazione (ora AgID)
+**CNIPA** Centro Nazionale Informatica Pubblica Amministrazione (ora AgID)
 
-CP2011 Classificazione Professioni (2011)
+**CP2011** Classificazione Professioni (2011)
 
-CSIRT Computer Security Incident Response Team
+**CSIRT** Computer Security Incident Response Team
 
-CV Curriculum Vitae
+**CV** Curriculum Vitae
 
-D.Lgs. Decreto Legislativo
+**D.Lgs.** Decreto Legislativo
 
-DB Database
+**DB Database**
 
-DBMS Database Management System
+**DBMS** Database Management System
 
-DM Decreto Ministeriale
+**DM** Decreto Ministeriale
 
-DPCM Decreto Presidente del Consiglio dei Ministri
+**DPCM** Decreto Presidente del Consiglio dei Ministri
 
-e-CF e-Competence Framework
+**e-CF** e-Competence Framework
 
-EN Norma tecnica europea
+**EN** Norma tecnica europea
 
-EQF European Qualification Framework
+**EQF** European Qualification Framework
 
-GDA Geo Data Analyst
+**GDA** Geo Data Analyst
 
-GDA GeoData Analyst
+**GDA** GeoData Analyst
 
-GIM Geographic Information Manager
+**GIM** Geographic Information Manager
 
-GIO Geographic Information Officer
+**GIO** Geographic Information Officer
 
-GIS Geographic Information System
+**GIS** Geographic Information System
 
-GIT/S Geographic Information Technician / Specialist
+**GIT/S** Geographic Information Technician / Specialist
 
-GKE Geographic Knowledge Enabler
+**GKE** Geographic Knowledge Enabler
 
-ICT Information and Communication Technology
+**ICT** Information and Communication Technology
 
-IDE Integrated Development Environment
+**IDE** Integrated Development Environment
 
-IDT Infrastrutture di Dati Territoriali
+**IDT** Infrastrutture di Dati Territoriali
 
-IG Informazione Geografica
+**IG** Informazione Geografica
 
-ISCO International Standard Classification of Occupation
+**ISCO** International Standard Classification of Occupation
 
-ISO International Standards Organization
+**ISO** International Standards Organization
 
-ISO/IEC International Standards Organization / International
-Electrotechnical Commission
+**ISO/IEC** International Standards Organization / International Electrotechnical Commission
 
-Istat Istituto Nazionale di Statistica
+**Istat** Istituto Nazionale di Statistica
 
-KPI Key Performance Indicators
+**KPI** Key Performance Indicators
 
-OLA Operational Level Agreements
+**OLA** Operational Level Agreements
 
-OO Object Oriented
+**OO** Object Oriented
 
-PA Pubblica Amministrazione
+**PA** Pubblica Amministrazione
 
-QNQ Quadro Nazionale Qualificazioni
+**QNQ** Quadro Nazionale Qualificazioni
 
-SGSI Sistema Gestione Sicurezza delle Informazioni
+**SGSI** Sistema Gestione Sicurezza delle Informazioni
 
-SLA Service Level Agreements
+**SLA** Service Level Agreements
 
-SOC Security Operation Center
+**SOC** Security Operation Center
 
-UML Unified Modeling Language
+**UML** Unified Modeling Language
 
-UNI Ente Nazionale Italiano di Normazione
+**UNI** Ente Nazionale Italiano di Normazione
 
-WBS Work Breakdown Structure
+**WBS** Work Breakdown Structure
 
 2. Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
 ---------------------------------------------------------------------------------------------------------
@@ -619,10 +618,12 @@ alle dimensioni 2 e 3 e gli esempi di knowledge e skill sono presenti
 nella dimensione 4 del framework, le attitudini sono inserite in tutte e
 tre le dimensioni.
 
-|image0|
+.. image:: tre-dimensioni.png
+  :scale: 50 %
+  :alt: Figura 1. European e-Competence Framework versione 3.0 visione di insieme.
 
-Figura 1. European e-Competence Framework versione 3.0 visione di
-insieme.
+**Figura 1. European e-Competence Framework versione 3.0 visione di
+insieme.**
 
 **I principi guida di e-CF**
 
