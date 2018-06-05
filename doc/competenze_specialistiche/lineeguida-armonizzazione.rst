@@ -3,3 +3,7 @@ Linee guida per l'armonizzazione delle qualificazioni professionali, delle profe
  
  *Come riconoscere e valorizzare le competenze in ambito ICT.*
   
+.. toctree::
+   :maxdepth: 3
+   
+   premessa.rst
