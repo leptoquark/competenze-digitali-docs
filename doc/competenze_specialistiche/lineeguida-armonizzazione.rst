@@ -445,7 +445,6 @@ Di seguito un esempio di quadro sinottico realizzato con la comparazione dei pro
 
 4.4.1. Prospetto sinottico CP 2011 – ADA – AGID – Repertorio – Esemplificativo sul caso Liguria
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
 +---------+---------+---------+---------+---------+---------+---------+
 | Unità   | A.D.A.  | A.D.A.  | A.D.A.  | A.D.A.  | Figura  | Reperto |
 | profess | 1       | 2       | 3       | 4       | profess | rio     |
@@ -631,7 +630,6 @@ Di seguito un esempio di quadro sinottico realizzato con la comparazione dei pro
    Tuttavia, si ritiene utile mantenere l’Unità Professionale 2.1.15.2
    (Analisti e Progettisti di Basi Dati) in previsione di successive
    evoluzioni.
-
 
 5. Evoluzioni future
 -----------------------
