@@ -8,9 +8,15 @@ Lo sviluppo di adeguate competenze specialistiche ICT è una condizione cruciale
 Attraverso azioni indirizzate a imprese e Pubblica Amministrazione, la Strategia intende:
 adottare il modello e-CF come standard di definizione delle competenze digitali e sostenere il sistema formativo nella preparazione di giovani con competenze professionalizzanti più vicine alle aspettative del mercato del lavoro.
 
+.. admonition:: **CONSULTAZIONE PUBBLICA**
+   
+   La consultazione pubblica relativa alle **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei    profili in ambito ICT** è attiva dal **05** **giugno** al **06** **giugno** **2018**.
+   
+
 .. toctree::
    :maxdepth: 4
    
+   intro-consultazione.rst
    lineeguida-armonizzazione.rst
    lineeguida-competenze.rst
 
