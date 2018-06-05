@@ -3,8 +3,8 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
 
 *Aggiornamento del manuale operativo "Dizionario dei profili di competenza per le professioni ICT", anno 2018*
 
-1. Generalità del documento
----------------------------
+Generalità del documento
+-------------------------------
 
 Il presente documento contiene la versione aggiornata rispetto alle
 evoluzioni normative, sia legislative che tecniche, delle linee guida
@@ -153,7 +153,7 @@ una specifica fornitura ICT. Il paragrafo conclusivo del capitolo mette
 a confronto questi due concetti, da cui derivano limiti ed opportunità
 offerti dallo strumento “profilo di competenza”.
 
-1.1. Acronimi e abbreviazioni
+Acronimi e abbreviazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **AgID** Agenzia per l'Italia Digitale
@@ -248,7 +248,7 @@ offerti dallo strumento “profilo di competenza”.
 
 **WBS** Work Breakdown Structure
 
-2. Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
+Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
 ---------------------------------------------------------------------------------------------------------
 
 L’evoluzione delle attività economiche, il trasferimento delle
@@ -282,7 +282,7 @@ Repubblica 7 agosto 2012, n. 137 [3]_, sono disciplinate nel Decreto del
 Presidente Della Repubblica 5 giugno 2001, n. 328 e successive
 modificazioni e integrazioni [4]_.
 
-2.1. Legge 14 gennaio 2013, n. 4
+Legge 14 gennaio 2013, n. 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con l’approvazione della Legge 4 del 14 gennaio 2013 “Disposizioni in
@@ -312,7 +312,7 @@ singolo professionista anche non iscritto ad alcuna associazione, il
 certificato di conformità alla norma tecnica UNI (quale è e-CF, ad
 esempio) definita per la singola professione.
 
-2.2. Decreto Legislativo 16 gennaio 2013, n. 13
+Decreto Legislativo 16 gennaio 2013, n. 13
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un altro tassello fondamentale in questa direzione è stato poi il D.Lgs.
@@ -397,7 +397,7 @@ confronti della certificazione delle professioni, costituirà uno
 strumento affidabile per le esigenze reali del sistema produttivo e darà
 concreto impulso alla libera circolazione delle professioni.
 
-2.3. Norme tecniche di riferimento
+Norme tecniche di riferimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **UNI EN 16234-1:2016** e-Competence Framework (e-CF) - A common
@@ -468,7 +468,7 @@ concreto impulso alla libera circolazione delle professioni.
    Information Officer, Geographic Information Technician / Specialist
    eGeographic Knowledge Enabler.
 
-3. Metodologia di lavoro
+Metodologia di lavoro
 -------------------------
 
 La prima versione delle Linee guida sulla qualità dei beni e dei servizi
@@ -495,7 +495,7 @@ nell’ambito del settore professionale ICT, sia dei dipendenti della
 Pubblica Amministrazione che delle figure professionali impegnate nelle
 forniture di servizi alla Pubblica Amministrazione.
 
-4. Profili di competenza
+Profili di competenza
 ------------------------------
 
 Le modalità di affidamento dei servizi ICT ad un Fornitore esterno sono
@@ -567,7 +567,7 @@ totalmente dei dati curricolari. Per la descrizione delle competenze ICT
 europeo contenuto nella norma UNI EN 16234-1 "e-Competence Framework",
 utilizzandone la traduzione in lingua italiana.
 
-4.1. Modello e-CF 3.0 (UNI EN 16234-1)
+Modello e-CF 3.0 (UNI EN 16234-1)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La norma UNI EN 16234-1 fornisce un riferimento di 40 competenze
@@ -700,7 +700,7 @@ Per un approfondimento si rimanda all’appendice 6.1: “Mappa delle
 competenze e-CF” per un estratto e alla norma UNI EN 16234-1 per il
 dettaglio.
 
-4.2. Albero genealogico dei profili professionali ICT
+Albero genealogico dei profili professionali ICT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con gli elementi del framework definito nella UNI EN 16234-1 è possibile
@@ -721,10 +721,10 @@ la definizione del CV in formato europeo Europass.
 
 **Figura 2. Albero genealogico dei profili ICT.**
 
-4.3. Profili professionisti ICT (UNI 11621-2)
+Profili professionisti ICT (UNI 11621-2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-4.3.1. Account Manager 
+Account Manager 
 """""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Punto di riferimento (focal point) Senior
@@ -737,7 +737,7 @@ la definizione del CV in formato europeo Europass.
    responsabilità di raggiungere i target di vendita e mantenere i
    margini.
 
-4.3.2. Business Analyst (Analista di Business)
+Business Analyst (Analista di Business)
 """"""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Analizza il Sistema Informativo per
@@ -750,7 +750,7 @@ la definizione del CV in formato europeo Europass.
    delle soluzioni ICT. Analizza le esigenze di mercato e le traduce in
    soluzioni ICT.
 
-4.3.3. Business Information Manager 
+Business Information Manager 
 """"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Propone piani e gestisce l’evoluzione
@@ -762,7 +762,7 @@ la definizione del CV in formato europeo Europass.
    bisogni, costi e piani concordati con gli utenti interni. Assicura la
    qualità di servizio e la soddisfazione del cliente interno.
 
-4.3.4. Chief Information Officer (CIO) 
+Chief Information Officer (CIO) 
 """""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Sviluppa e mantiene i Sistemi Informativi
@@ -775,7 +775,7 @@ la definizione del CV in formato europeo Europass.
    strategico aziendale. Conduce o partecipa in progetti di più grande
    cambiamento.
 
-4.3.5. Database Administrator (Amministratore di Database)
+Database Administrator (Amministratore di Database)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta, realizza, o controlla e mantiene
@@ -790,7 +790,7 @@ la definizione del CV in formato europeo Europass.
    e pianificando per bisogni di espansioni futuri. Pianifica, coordina
    e realizza misure di sicurezza per salvaguardare il database.
 
-4.3.6. Developer (Sviluppatore)
+Developer (Sviluppatore)
 """"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Realizza/codifica soluzioni ICT e scrive
@@ -803,7 +803,7 @@ la definizione del CV in formato europeo Europass.
    della funzionalità e dell’efficienza.
    
 
-4.3.7. Digital Media Specialist (Specialista di Media Digitali)
+Digital Media Specialist (Specialista di Media Digitali)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Crea website ed applicazioni multimediali
@@ -816,7 +816,7 @@ la definizione del CV in formato europeo Europass.
    ed assicura la sostenibilità attraverso l’applicazione di sistemi di
    gestione dei contenuti appropriati.
 
-4.3.8. Enterprise Architect 
+Enterprise Architect 
 """"""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta e mantiene la Architettura di
@@ -828,7 +828,7 @@ la definizione del CV in formato europeo Europass.
    e del patrimonio ICT. Mette in relazione la missione di business, la
    strategia ed i processi con la strategia IT.
 
-4.3.9. ICT Consultant
+ICT Consultant
 """""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Favorisce la comprensione di come le nuove
@@ -840,7 +840,7 @@ la definizione del CV in formato europeo Europass.
    Comunica il valore delle nuove tecnologie per il business.
    Contribuisce alla definizione del progetto.
 
-4.3.10. ICT Operations Manager (Manager Delle Operazioni ICT)
+ICT Operations Manager (Manager Delle Operazioni ICT)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce attività, persone e risorse
@@ -854,7 +854,7 @@ la definizione del CV in formato europeo Europass.
    tecnologie. Assicura l’efficacia dell’ICT e la gestione dei rischi
    associati.
 
-4.3.11. ICT Security Manager (Manager della Sicurezza ICT)
+ICT Security Manager (Manager della Sicurezza ICT)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce la politica di sicurezza del
@@ -866,7 +866,7 @@ la definizione del CV in formato europeo Europass.
    disponibili. Riconosciuto come l’esperto di politica di sicurezza ICT
    dagli stakeholder interni ed esterni.
 
-4.3.12. ICT Security Specialist (Specialista della Sicurezza ICT)
+ICT Security Specialist (Specialista della Sicurezza ICT)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura l’implementazione della politica
@@ -878,7 +878,7 @@ la definizione del CV in formato europeo Europass.
    parte di una rete o di un sistema. È riconosciuto come l’esperto
    tecnico della sicurezza ICT dai colleghi.
 
-4.3.13. ICT Trainer (Docente ICT)
+ICT Trainer (Docente ICT)
 """"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Istruisce e forma professionisti ICT per
@@ -889,7 +889,7 @@ la definizione del CV in formato europeo Europass.
    assicurare che i discenti siano effettivamente capaci di svolgere i
    loro compiti sul posto di lavoro.
 
-4.3.14. Network Specialist (Specialista di Rete)
+Network Specialist (Specialista di Rete)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura l’allineamento della rete,
@@ -900,7 +900,7 @@ la definizione del CV in formato europeo Europass.
    risolvendo problemi ed errori per assicurare definiti livelli di
    servizio. Monitorizza e migliora le performance della rete.
 
-4.3.15. Project Manager (Capo Progetto)
+Project Manager (Capo Progetto)
 """""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Gestisce progetti per raggiungere la
@@ -912,7 +912,7 @@ la definizione del CV in formato europeo Europass.
    qualità, sicurezza e sostenibilità nonché coerenti con gli obiettivi,
    le performance, i costi ed i tempi definiti.
 
-4.3.16. Quality Assurance Manager (Manager dell’assicurazione Qualità)
+Quality Assurance Manager (Manager dell’assicurazione Qualità)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Assicura che i Sistemi Informativi siano
@@ -925,7 +925,7 @@ la definizione del CV in formato europeo Europass.
    impegnato nel raggiungimento degli obiettivi di qualità e controlla
    statistiche per prevedere i risultati della qualità.
 
-4.3.17. Service Desk Agent (Operatore di Help Desk)
+Service Desk Agent (Operatore di Help Desk)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Fornisce la prima linea di supporto
@@ -937,7 +937,7 @@ la definizione del CV in formato europeo Europass.
    consentire all’utente di massimizzare la produttività attraverso un
    uso efficiente delle attrezzature ICT o delle applicazioni software.
 
-4.3.18. Service Manager 
+Service Manager 
 """""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Pianifica, implementa e gestisce la
@@ -952,7 +952,7 @@ la definizione del CV in formato europeo Europass.
    Contribuisce allo sviluppo del budget di manutenzione tenendo conto
    delle organizzazioni di business/finanza.
 
-4.3.19. Systems Administrator (Amministratore di Sistemi)
+Systems Administrator (Amministratore di Sistemi)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Amministra i componenti del sistema ICT
@@ -963,7 +963,7 @@ la definizione del CV in formato europeo Europass.
    soddisfare la continuità del servizio, i salvataggi, la sicurezza e
    le esigenze di performance.
 
-4.3.20. Systems Analyst (Analista di Sistemi)
+Systems Analyst (Analista di Sistemi)
 """""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Analizza i requisiti e specifica software
@@ -972,7 +972,7 @@ la definizione del CV in formato europeo Europass.
 -  **Missione.** Assicura il disegno tecnico e contribuisce
    all’implementazione di nuovo software e/o di miglioramenti.
 
-4.3.21. Systems Architect (Architetto di Sistemi)
+Systems Architect (Architetto di Sistemi)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Pianifica e garantisce l’implementazione e
@@ -985,7 +985,7 @@ la definizione del CV in formato europeo Europass.
    nuove soluzioni. Agisce da team leader per gli sviluppatori e gli
    esperti tecnici.
 
-4.3.22. Technical Specialist 
+Technical Specialist 
 """"""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Mantiene e ripara hardware e software su
@@ -996,7 +996,7 @@ la definizione del CV in formato europeo Europass.
    garantire una performance ottimale del sistema e un’alta
    soddisfazione del cliente.
 
-4.3.23. Test Specialist (Specialista del Testing)
+Test Specialist (Specialista del Testing)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Progetta e attua i piani di test.
@@ -1007,10 +1007,10 @@ la definizione del CV in formato europeo Europass.
    sistema, effettuando il testing delle funzionalità del sistema,
    identificando le anomalie e diagnosticandone le possibili cause.
 
-4.4. Profili professionisti Web (UNI 11621-3)
+Profili professionisti Web (UNI 11621-3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
-4.4.1. Web Community Manager
+Web Community Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale del settore Marketing
@@ -1033,7 +1033,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.2. Web Project Manager
+Web Project Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
@@ -1058,7 +1058,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Project Manager.
 
-4.4.3. Web Account Manager
+Web Account Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
@@ -1079,7 +1079,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Account Manager.
 
-4.4.4. User Experience Designer
+User Experience Designer
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile del
@@ -1101,7 +1101,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.5. Web Business Analyst
+Web Business Analyst
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che analizza le
@@ -1120,7 +1120,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Business Analyst.
 
-4.4.6. Web DB Administrator
+Web DB Administrator
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che ha il compito di
@@ -1139,7 +1139,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Database
    Administrator.
 
-4.4.7. Search Engine Expert
+Search Engine Expert
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che, gestendo e
@@ -1160,7 +1160,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.8. Web Advertising Manager
+Web Advertising Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
@@ -1187,7 +1187,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.9. Frontend Web Developer
+Frontend Web Developer
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che realizza e/o
@@ -1205,7 +1205,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.10. Server Side Web Developer
+Server Side Web Developer
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa della
@@ -1222,7 +1222,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
-4.4.11. Web Content Specialist
+Web Content Specialist
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si colloca tra il
@@ -1241,7 +1241,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.12. Web Server Administrator
+Web Server Administrator
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che amministra i
@@ -1257,7 +1257,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Systems
    Administrator.
 
-4.4.13. Information Architect
+Information Architect
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa
@@ -1277,7 +1277,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Systems Architect.
 
-4.4.14. Digital Strategic Planner
+Digital Strategic Planner
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che supporta il
@@ -1292,7 +1292,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Service Manager.
 
-4.4.15. Web Accessibility Expert
+Web Accessibility Expert
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale a supporto dello
@@ -1312,7 +1312,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.16. Web Security Expert
+Web Security Expert
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che analizza il
@@ -1338,7 +1338,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.4.17. Mobile Application Developer
+Mobile Application Developer
 """"""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che realizza/codifica
@@ -1356,7 +1356,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
-4.4.18. E-Commerce Specialist
+E-Commerce Specialist
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta degli
@@ -1371,7 +1371,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
-4.4.19. Online Store Manager
+Online Store Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile del
@@ -1388,7 +1388,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Operations
    Manager.
 
-4.4.20. Reputation Manager
+Reputation Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che si occupa di
@@ -1406,7 +1406,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.21. Knowledge Manager
+Knowledge Manager
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale che promuove le
@@ -1425,7 +1425,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Service Manager.
 
-4.4.22. Web Augmented Reality Expert
+Web Augmented Reality Expert
 """""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
@@ -1451,7 +1451,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Developer.
 
-4.4.23. E-Learning Specialist
+E-Learning Specialist
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta dei processi
@@ -1469,7 +1469,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** ICT Trainer.
 
-4.4.24. Web Data Scientist
+Web Data Scientist
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale a cui fanno capo le
@@ -1498,7 +1498,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.4.25. Wikipedian
+Wikipedian
 """""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Il Wikipedian collabora ai progetti
@@ -1520,10 +1520,10 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Digital Media
    Specialist.
 
-4.5. Profili professionisti sicurezza ICT (UNI 11621-4)
+Profili professionisti sicurezza ICT (UNI 11621-4)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-4.5.1. Responsabile di sistemi per la gestione della sicurezza delle informazioni
+Responsabile di sistemi per la gestione della sicurezza delle informazioni
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Responsabile di massimo livello
@@ -1542,7 +1542,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Manager.
 
-4.5.2. Responsabile della sicurezza dei sistemi per la conservazione digitale
+Responsabile della sicurezza dei sistemi per la conservazione digitale
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura di riferimento per la gestione
@@ -1565,7 +1565,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Manager.
 
-4.5.3. Responsabile della continuità operativa (ICT)
+Responsabile della continuità operativa (ICT)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
@@ -1588,7 +1588,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Manager.
 
-4.5.4. Responsabile della sicurezza delle informazioni (CISO)
+Responsabile della sicurezza delle informazioni (CISO)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Il Chief information security officer,
@@ -1608,7 +1608,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Manager.
 
-4.5.5. Manager della sicurezza delle informazioni
+Manager della sicurezza delle informazioni
 """""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura di riferimento per insiemi definiti
@@ -1626,7 +1626,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Manager.
 
-4.5.6. Analista di processo per la sicurezza delle informazioni
+Analista di processo per la sicurezza delle informazioni
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura dedicata al controllo del rispetto
@@ -1644,7 +1644,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.7. Analista tecnico per la sicurezza delle informazioni
+Analista tecnico per la sicurezza delle informazioni
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla verifica
@@ -1663,7 +1663,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.8. Analista forense per gli incidenti ICT
+Analista forense per gli incidenti ICT
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata all'analisi
@@ -1679,7 +1679,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.9. Specialista di processo della sicurezza delle informazioni
+Specialista di processo della sicurezza delle informazioni
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
@@ -1695,7 +1695,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.10. Specialista infrastrutturale della sicurezza delle informazioni
+Specialista infrastrutturale della sicurezza delle informazioni
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
@@ -1714,7 +1714,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.11. Specialista applicativo della sicurezza delle informazioni
+Specialista applicativo della sicurezza delle informazioni
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa dedicata alla
@@ -1732,7 +1732,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.5.12. Specialista nella risposta agli incidenti 
+Specialista nella risposta agli incidenti 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Definizione sintetica.** Figura operativa addetta alla gestione
@@ -1749,10 +1749,10 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** ICT Security
    Specialist.
 
-4.6. Profili professionali relativi all’informazione geografica
+Profili professionali relativi all’informazione geografica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-4.6.1. GeoData Analyst (GDA)
+GeoData Analyst (GDA)
 """""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta dei processi,
@@ -1785,7 +1785,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Systems Analyst.
 
-4.6.2. Geographic Information Manager (GIM)
+Geographic Information Manager (GIM)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale inserita negli
@@ -1821,7 +1821,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Chief Information
    Officer (CIO).
 
-4.6.3. Geographic Information Officer (GIO)
+Geographic Information Officer (GIO)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale responsabile della
@@ -1842,7 +1842,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** Project Manager.
 
-4.6.4. Geographic Information Technician / Specialist (GIT/S)
+Geographic Information Technician / Specialist (GIT/S)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta nelle più
@@ -1868,7 +1868,7 @@ la definizione del CV in formato europeo Europass.
 -  **Profilo di seconda generazione di riferimento.** Database
    Administrator.
 
-4.6.5. Geographic Knowledge Enabler (GKE)
+Geographic Knowledge Enabler (GKE)
 """"""""""""""""""""""""""""""""""""""""""""
 
 -  **Descrizione sintetica.** Figura professionale esperta in materia di
@@ -1896,7 +1896,7 @@ la definizione del CV in formato europeo Europass.
 
 -  **Profilo di seconda generazione di riferimento.** ICT Trainer.
 
-4.7. Altri profili professionali ICT
+Altri profili professionali ICT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le norme sviluppate successivamente alla pubblicazione di questo
@@ -1910,7 +1910,7 @@ capitolo 2.
 AgID si impegna comunque a mantenere aggiornato e allineato il presente
 documento alle norme tecniche vigenti.
 
-5. Utilizzo dei profili di competenza
+Utilizzo dei profili di competenza
 ---------------------------------------
 
 In questo capitolo si vogliono fornire alcune indicazioni operative che
@@ -1918,10 +1918,10 @@ consentano di individuare quando, in quali circostanze e con quali
 modalità i profili di competenza (descritti nei lemmi collegati al
 presente dizionario) possono essere utilizzati.
 
-5.1. Gare di fornitura
+Gare di fornitura
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-5.1.1. Analisi dei costi
+Analisi dei costi
 """""""""""""""""""""""""""
 
 L’attività di stima ed analisi dei costi, poiché rappresenta un
@@ -1985,7 +1985,7 @@ ogni lemma del dizionario dei profili di competenza, verso possibili
 denominazioni alternative in altri sistemi di classificazione, nel caso
 in cui il costo di mercato sia noto per tali figure.
 
-5.1.2. Analisi dei rischi
+Analisi dei rischi
 """""""""""""""""""""""""""
 
 Il capitolato tecnico è il documento che illustra le necessità che
@@ -2086,7 +2086,7 @@ operanti nell’ICT, sarà tuttavia possibile prendere in considerazione,
 come riferimento generico, il modello europeo DigCOMP 2.1 [9]_, di cui
 AgID ha curato la traduzione ufficiale in lingua italiana [10]_.
 
-5.1.3. Definizione del capitolato tecnico
+Definizione del capitolato tecnico
 """""""""""""""""""""""""""""""""""""""""""""
 
 La definizione di una figura professione nell’ambito di un capitolato
@@ -2250,7 +2250,7 @@ dei seguenti temi:
 -  Strumenti tecnologici di supporto per la raccolta dei requisiti, il
    disegno applicativo, l’automazione test, ecc.
 
-5.1.4. Istruzioni per la compilazione delle offerte
+Istruzioni per la compilazione delle offerte
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Le istruzioni per la compilazione delle offerte, parte integrante dei
@@ -2343,7 +2343,7 @@ ricercato dal capitolato tecnico. In particolare, occorre specificare:
    -  strumenti tecnologici di supporto alle attività previste dal
       capitolato
 
-5.2. Acquisizione di risorse umane
+Acquisizione di risorse umane
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I profili ICT contenuti all’interno di queste linee guida possono essere
@@ -2368,7 +2368,7 @@ l’Italia Digitale ha avviato la ricerca 72 profili professionali per
 supportare le attività progettuali destinate alla trasformazione
 digitale della Pubblica amministrazione italiana [12]_.
 
-5.3. Definizione di attività formative
+Definizione di attività formative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con il decreto dell'8 gennaio 2018 (GU n. 20 del 25 gennaio 2018) il
@@ -2415,7 +2415,7 @@ dei profili e delle competenze per le professioni ICT di cui alle “Linee
 guida per la qualità delle competenze digitali nelle professionalità
 ICT” a cura dell’Agenzia per l’Italia Digitale.
 
-5.4. Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione 
+Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al fine di garantire una armonizzazione delle terminologie utilizzate
@@ -2449,7 +2449,7 @@ Tale mappatura è da considerarsi a titolo esemplificativo, e non
 garantisce comunque un rapporto 1:1 tra i profili normati e le
 terminologie di terze parti.
 
-6. Appendici
+Appendici
 -------------
 
 Sono proposte le seguenti appendici rispettivamente dedicate alla
@@ -2461,7 +2461,7 @@ presentazione:
 -  della tabella di correlazione tra i profili ICT di riferimento e le
    catalogazioni di altri soggetti.
 
-6.1 Mappa delle competenze professionali ICT europee (e-CF 3.0)
+Mappa delle competenze professionali ICT europee (e-CF 3.0)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si riporta di seguito la mappatura delle competenze E-CF 3.0. Per
@@ -2881,7 +2881,7 @@ risorse al fine di raggiungere i benefici di business messi a bilancio.
 .. _correlazione-tra-profili-di-riferimento-e-ulteriori-terminologie-di-catalogazione-1:
 
 
-6.2. Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione
+Correlazione tra profili di riferimento e ulteriori terminologie di catalogazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nota: Tale mappatura è a titolo esemplificativo, e non garantisce
