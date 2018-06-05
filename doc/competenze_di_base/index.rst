@@ -14,6 +14,7 @@ cultura dell’innovazione e della creatività.
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
    Intro_Modello_Europeo_DigComp_2_1
    prefazione
