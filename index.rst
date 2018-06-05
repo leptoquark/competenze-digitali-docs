@@ -17,6 +17,6 @@ Dal 2017 AgID si occupa inoltre di supportare la definizione delle competenze di
 .. toctree::
    :maxdepth: 3
 
-   doc/competenze_di_base/Intro_Competenze_digitali_di_base.rst
-   doc/competenze_e-leadership/Intro_competenze_e-leadership.rst
-   doc/competenze_specialistiche/Intro_competenze_specialistiche.rst
+   doc/competenze_di_base/index.rst
+   doc/competenze_e-leadership/index.rst
+   doc/competenze_specialistiche/index.rst
