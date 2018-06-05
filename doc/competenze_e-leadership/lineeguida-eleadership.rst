@@ -4,7 +4,7 @@ Linee guida per le competenze di e-leadership
 *Competenze e strumenti per la valorizzazione della e-leadership nella
 PA.*
 
-1. Premessa 
+Premessa 
 -------------
 
 Le competenze di e-leadership, o e-business, sono le capacità di
@@ -49,7 +49,7 @@ mappatura di possibili linee di intervento, la definizione di percorsi e
 strumenti per la progettazione formativa nonché linee guida specifiche
 per la misurazione di impatto.
 
-1.1. Acronimi e abbreviazioni
+Acronimi e abbreviazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 AgID Agenzia per l'Italia Digitale
@@ -76,13 +76,13 @@ SNA Scuola Nazionale dell'Amministrazione
 
 UNI Ente Nazionale di Normazione
 
-2. Principi e strategie per la mappatura e la valorizzazione
+Principi e strategie per la mappatura e la valorizzazione
 ----------------------------------------------------------------
 
-2.1. Introduzione al tema dell’e-leadership
+Introduzione al tema dell’e-leadership
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2.1.1. Chi è l’e-leader? 
+Chi è l’e-leader? 
 """"""""""""""""""""""""""""
 
 L’e-leader è una figura professionale propulsiva che spinge le
@@ -98,7 +98,7 @@ il cambiamento** si traduce nella capacità di pensare e realizzare
 progetti volti a superare i vecchi schemi mentali e ad innovare i
 processi organizzativi.
 
-2.1.2. L’e-leader come leva del cambiamento organizzativo 
+L’e-leader come leva del cambiamento organizzativo 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Come riesce l’e-leader a farsi leva del cambiamento organizzativo, senza
@@ -116,7 +116,7 @@ organizzativo in cui opera e, nel nostro caso, delle competenze
 approfondite sul funzionamento dei processi della PA per trasformarli in
 senso digitale.
 
-2.1.3. Quale percorso per l’e-leader? 
+Quale percorso per l’e-leader? 
 """""""""""""""""""""""""""""""""""""""
 
 L’e-leader è un professionista poliedrico e il suo profilo è il frutto
@@ -144,7 +144,7 @@ contesti di apprendimento informale nelle diverse fasi di vita di un
 individuo, futuro e-leader: le attività di vita quotidiana legate ai
 contesti di formazione, di lavoro e di vita fuori dal lavoro.
 
-2.1.4. Le componenti dell’e-leadership 
+Le componenti dell’e-leadership 
 """""""""""""""""""""""""""""""""""""""
 
 Possiamo riassumere le componenti essenziali dell’e-leadership (non
@@ -173,7 +173,7 @@ un team) in 5 aree di competenza:
 
 *Figura 1. Le cinque aree di competenza per l'e-leadership.*
 
-2.2. Descrizione delle cinque aree di competenza
+Descrizione delle cinque aree di competenza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La logica di fondo è che, a parte la prima area relativa alle conoscenze
@@ -184,7 +184,7 @@ richiesta dalla trasformazione digitale in atto.
 
 Vediamo nel dettaglio le varie componenti del profilo di un e-leader.
 
-2.2.1. Cultura e conoscenze del mondo digitale
+Cultura e conoscenze del mondo digitale
 """"""""""""""""""""""""""""""""""""""""""""""""
 
 La prima componente essenziale per un e-leader è quella di possedere
@@ -220,7 +220,7 @@ seguenti:
    informazioni e delle conoscenze nelle organizzazioni e conosce quali
    sono le principali tecnologie per la loro gestione e condivisione.
 
-2.2.2. Capacità individuali di relazione e di comunicazione (“soft skill”)
+Capacità individuali di relazione e di comunicazione (“soft skill”)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Le **competenze individuali** (chiamate anche "soft skill”) comprendono
@@ -251,7 +251,7 @@ acquisire con un'adeguata formazione e, soprattutto, con l'esperienza:
 
 -  la capacità di "vedere" il futuro, prefigurandone l'evoluzione.
 
-2.2.3. Competenze organizzative e di gestione del cambiamento 
+Competenze organizzative e di gestione del cambiamento 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Le capacità organizzative – ovvero di pianificazione, programmazione,
@@ -324,7 +324,7 @@ Per l’e-leader questo significa essere in grado di:
    multietnici e multiculturali, operando anche come mentore del
    personale connesso virtualmente.
 
-2.2.4. Competenze sui processi digitali nella PA 
+Competenze sui processi digitali nella PA 
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Per attuare la missione della PA e realizzare il cambiamento
@@ -440,7 +440,7 @@ organizzazioni nel settore pubblico e privato.
 | processi di innovazione interna.  |                                   |
 +-----------------------------------+-----------------------------------+
 
-3. Mappatura delle possibili linee di intervento sul tema
+Mappatura delle possibili linee di intervento sul tema
 -----------------------------------------------------------
 
 L’allargamento dei mercati, le innovazioni e la *digital transformation*
@@ -498,7 +498,7 @@ o dipartita: in ciascuno di questi frangenti imprese e cittadini
 richiedono servizi specifici che la PA, nel suo insieme, deve garantire
 attraverso usabilità digitale e accesso multicanale.
 
-3.1. Sviluppo della e-leadership per la PA
+Sviluppo della e-leadership per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I dirigenti della PA, per primi, sono destinatari delle iniziative di
@@ -653,10 +653,10 @@ e inutile, un collo di bottiglia, ma un'occasione di sviluppo per la
 collettività, un'opportunità per l'impresa e un vantaggio per la
 cittadinanza ed il mondo dell'impresa.
 
-4. Percorsi e strumenti per la progettazione formativa
+Percorsi e strumenti per la progettazione formativa
 -------------------------------------------------------
 
-4.1. Strumenti di attuazione
+Strumenti di attuazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’e-leader deve avere una particolare attitudine a vedere il cambiamento
@@ -701,7 +701,7 @@ l’iniziativa dei singoli come dei team di e-leader (tra più
 organizzazioni), favorendo anche l’analisi dei contesti e il riutilizzo
 di pratiche già sperimentate e in corso di sperimentazione.
 
-4.2. Progettazione di attività formativa interna
+Progettazione di attività formativa interna
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le attività formative dovranno essere calibrate sulla base delle
@@ -849,7 +849,7 @@ esistenti.
    |                                   |    esistenti.                     |
    +-----------------------------------+-----------------------------------+
 
-4.3. Progettazione di attività di formazione attraverso consulenze specialistiche
+Progettazione di attività di formazione attraverso consulenze specialistiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le attività di formazione dovranno essere progettate e realizzate in
@@ -905,7 +905,7 @@ percorsi sono sufficientemente omogenei per tutte le amministrazioni
 rispetto al punto 1 e si differenziano progressivamente secondo le
 specifiche esigenze nei punti 2, 3 e 4.
 
-4.4. Progettazione di attività di formazione attraverso scambi tra Amministrazioni
+Progettazione di attività di formazione attraverso scambi tra Amministrazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La costruzione dei percorsi formativi – sia promossi all’interno alle
@@ -945,7 +945,7 @@ meccanismi incentivanti da un punto di vista finanziario per chi mette a
 disposizione quanto già progettato e testato, ovviamente previa
 selezione.
 
-5. Linee guida per la misurazione di impatto
+Linee guida per la misurazione di impatto
 ---------------------------------------------
 
 Il DESI (Digital Economy and Society Index) è l’indice elaborato dalla
@@ -963,7 +963,7 @@ cinque indicatori:
 
 -  servizi pubblici digitali.
 
-5.1. Linee guida per la costruzione di un sistema di misurazione di impatto dell’e-leadership
+Linee guida per la costruzione di un sistema di misurazione di impatto dell’e-leadership
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli indicatori da prevedere dovrebbero coprire quattro livelli di
@@ -990,7 +990,7 @@ e la forza specifica degli interventi messi in atto, sapendo che il
 cambiamento che si vuole ottenere non è da ricondurre al solo aumento
 delle competenze.
 
-5.1.1. Macro-impatti
+Macro-impatti
 """""""""""""""""""""""""""
 
 Rientrano qui le misurazioni di impatto, a livello regionale, rispetto
@@ -1026,7 +1026,7 @@ internazionali del DESI. Ad esempio:
 
 -  dipendenti PA formati su corsi di alfabetizzazione digitale avanzata.
 
-5.1.2. Impatti verticali degli interventi
+Impatti verticali degli interventi
 """""""""""""""""""""""""""""""""""""""""""""
 
 Rientrano qui le misurazioni di impatto, a livello di singola iniziativa
@@ -1058,7 +1058,7 @@ Dall’e-leadership scoreboard:
 
 -  Employment in ICT intensive sectors - - as % of total employment.
 
-5.1.3. Impatti locali sulle aree organizzative 
+Impatti locali sulle aree organizzative 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Rientrano qui le misurazioni di impatto, a livello di singola area
@@ -1071,7 +1071,7 @@ utilizzati indicatori di efficienza ed efficacia come:
 
 -  raggiungimento degli obiettivi di performance.
 
-5.1.4. Impatti verticali-specifici
+Impatti verticali-specifici
 """"""""""""""""""""""""""""""""""""
 
 Rientrano qui le misurazioni di impatto, a livello di singolo
