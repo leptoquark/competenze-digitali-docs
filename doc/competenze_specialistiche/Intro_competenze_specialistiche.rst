@@ -10,7 +10,7 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica relativa alle **`Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei    profili in ambito ICT <http://competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/lg-armonizzazione/lineeguida-armonizzazione.html#linee-guida-per-l-armonizzazione-delle-qualificazioni-professionali-delle-professioni-e-dei-profili-in-ambito-ict`_** è attiva dal **05** **giugno** al **06** **luglio** **2018**.
+   La consultazione pubblica relativa alle **`Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei    profili in ambito ICT <http://competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/lg-armonizzazione/lineeguida-armonizzazione.html#linee-guida-per-l-armonizzazione-delle-qualificazioni-professionali-delle-professioni-e-dei-profili-in-ambito-ict>`_** è attiva dal **05** **giugno** al **06** **luglio** **2018**.
    
 
 .. toctree::
