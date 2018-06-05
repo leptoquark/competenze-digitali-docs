@@ -8,3 +8,7 @@ Linee guida per l'armonizzazione delle qualificazioni professionali, delle profe
    
    premessa.rst
    contesto-normativo.rst
+   correlazioni-classificazioni.rst
+   modello-catalogazione.rst
+   evoluzioni-future.rst
+   bibliografia.rst
