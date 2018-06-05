@@ -12,4 +12,8 @@ L’e-leader è in grado di sfruttare le tecnologie digitali per definire e conc
    :maxdepth: 4
    :numbered:
    
-   lineeguida-eleadership.rst
+   premessa.rst
+   mappatura-valorizzazione.rst
+   linee-intervento-tema.rst
+   progettazione-formativa.rst
+   misurazione-impatto.rst
