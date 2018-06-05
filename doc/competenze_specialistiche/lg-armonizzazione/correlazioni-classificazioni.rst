@@ -1,4 +1,4 @@
-3. Correlazioni tra le classificazioni
+Correlazioni tra le classificazioni
 ----------------------------------------
 
 Per garantire un sistema di certificazione stabile, efficace e rispettoso delle norme che regolano il mercato del lavoro nazionale è necessario armonizzare e integrare i sistemi esistenti. Attualmente, rispetto alle professioni ICT, esistono:
@@ -9,7 +9,7 @@ Per garantire un sistema di certificazione stabile, efficace e rispettoso delle 
 
 -	Le “Linee guida per la qualità delle competenze digitali nelle professionalità ICT” (AgID)
 
-3.1. La classificazione ufficiale delle professioni (CP2011)
+La classificazione ufficiale delle professioni (CP2011)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L'Unità Professionale (UP) rappresenta il massimo livello di dettaglio della CP2011 (V livello). Tra le 800 UP, ne sono state individuate 13 che hanno una corrispondenza diretta con i profili ICT individuati dall’AgID riportati nel prospetto sinottico.
@@ -43,7 +43,7 @@ L'Unità Professionale (UP) rappresenta il massimo livello di dettaglio della CP
 **6.2.4.6.0**	 Installatori, Manutentori e Riparatori di Apparecchiature Informatiche 
 
 
-3.2. I Repertori Regionali collegati all’Atlante del Lavoro e delle Qualificazioni
+I Repertori Regionali collegati all’Atlante del Lavoro e delle Qualificazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ogni regione ha la possibilità di creare liberamente le qualificazioni da inserire nei repertori. Ad esempio, nel Repertorio Ligure (DGR 668/17) sono presenti le seguenti figure:
@@ -94,7 +94,7 @@ Attualmente, le qualificazioni dei repertori collegate all’ICT sono diversific
 
 **ADA.16.240.791** Erogazione di servizi ICT in remoto (es. clouding, hosting, help desk, ecc.)
 
-3.3. Linee guida per la qualità delle competenze digitali nelle professionalità ICT - AgID
+Linee guida per la qualità delle competenze digitali nelle professionalità ICT - AgID
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questo manuale arricchisce le indicazioni fornite sulla costruzione di contratti di servizio, vedi "Dizionario delle Forniture ICT", al caso più generale nel quale ci sia la necessità di comprendere l’erogazione di prestazioni professionali.
@@ -137,7 +137,7 @@ Restano pertanto esclusi attualmente dalla ricollocazione i seguenti profili:
 •	Service Desk Agent
 •	Service Manager
 
-3.4. Correlazione tra le diverse classificazioni
+Correlazione tra le diverse classificazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rispetto a questa ripartizione, esistono tempistiche di aggiornamento ed evoluzione molto diversi:
