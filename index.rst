@@ -2,12 +2,6 @@
 **Competenze Digitali**
 =======================
 
-.. admonition:: **CONSULTAZIONE PUBBLICA**
-   
-   La consultazione pubblica per questo documento è attiva dal **05** **giugno** al **06** **giugno** **2018**.
-   Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**, disponibile per
-   la consultazione pubblica.
-
 .. toctree::
    :maxdepth: 3
 
