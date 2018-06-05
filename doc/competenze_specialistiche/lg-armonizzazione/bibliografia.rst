@@ -1,4 +1,4 @@
-6. Bibliografia
+Bibliografia
 ------------------
 
 •	AgID - Linee guida per la qualità delle competenze digitali nelle professionalità ICT (Maggio 2018) 
